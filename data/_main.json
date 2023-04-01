@@ -1,0 +1,6 @@
+{ "data" : [
+              {"name" : "Recept 3", "uid" : "00001", "tags" : ["a", "b", "x"]}
+            , {"name" : "Recept 1", "uid" : "00002", "tags" : ["a", "b", "y"]}
+            , {"name" : "Recept 2", "uid" : "00003", "tags" : ["a", "b", "z"]}
+           ]
+}
