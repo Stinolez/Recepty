@@ -1,6 +1,19 @@
-{ "data" : [
-              {"name" : "Recept 3", "uid" : "00001", "tags" : ["a", "b", "x"]}
-            , {"name" : "Recept 1", "uid" : "00002", "tags" : ["a", "b", "y"]}
-            , {"name" : "Recept 2", "uid" : "00003", "tags" : ["a", "b", "z"]}
+{ "data" : [  { "name" : "Hrušková bábovka",      "uid" : "00001", "image" : true, "tags" : ["dezert", "hruška"] }
+            , { "name" : "Vaječný koňak",         "uid" : "00002", "image" : true, "tags" : ["nápoj", "alkohol"] }
+            , { "name" : "Dýňová bábovka",        "uid" : "00003", "image" : true, "tags" : ["dezert", "dýně"] }
+            , { "name" : "Dorayaki",              "uid" : "00004", "image" : true, "tags" : ["dezert", "anko", "japonsko"] }
+            , { "name" : "Anko",                  "uid" : "00005", "image" : true, "tags" : ["japonsko", "fazole", "adzuki"] }
+            , { "name" : "Oyakodon",              "uid" : "00006", "image" : true, "tags" : ["japonsko", "kuře", "rýže", "vejce", "dashi", "hlavní jídlo"] }
+            , { "name" : "Ochazuke",              "uid" : "00007", "image" : true, "tags" : ["japonsko", "ryba", "rýže", "dashi", "hlavní jídlo"] }
+            , { "name" : "Furikake",              "uid" : "00008", "image" : true, "tags" : ["japonsko", "koření", "ryba"] }
+            , { "name" : "Dashi",                 "uid" : "00009", "image" : true, "tags" : ["japonsko", "vývar", "ryba", "dashi"] }
+            , { "name" : "Kávové želé",           "uid" : "00010", "image" : true, "tags" : ["japonsko", "dezert", "káva"] }
+            , { "name" : "Červené zelí s jablky", "uid" : "00011", "image" : true, "tags" : ["příloha", "zelí"] }
+            , { "name" : "Tamagoyaki",            "uid" : "00012", "image" : true, "tags" : ["japonsko", "příloha", "sushi", "dashi", "vejce"] }
+            , { "name" : "Jablečný coleslaw",     "uid" : "00013", "image" : true, "tags" : ["salát", "zelí", "jablko"] }
+            , { "name" : "Pečený cheesecake",     "uid" : "00014", "image" : true, "tags" : ["dezert", "cream cheese"] }
+            , { "name" : "Lasagne",               "uid" : "00015", "image" : true, "tags" : ["itálie", "těstoviny", "mleté maso", "rajský protlak", "hlavní jídlo"] }
+            , { "name" : "Palačinky",             "uid" : "00016", "image" : true, "tags" : ["dezert"] }
+            , { "name" : "Sušenky",               "uid" : "00017", "image" : true, "tags" : ["dezert"] }
            ]
 }
