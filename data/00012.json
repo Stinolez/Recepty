@@ -1,0 +1,22 @@
+{  "name"        : "Tamagoyaki"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "3 ks vejce"
+                                   , "2 pol. lžíce rostlinného oleje"
+                                   , "3 pol. lžíce dashi"
+                                   , "1 čaj. lžíčka sojová omáčka"
+                                   , "2 čaj. lžičky cukr"
+                                   , "1 čaj. lžička mirin"
+                                   , "špetka sůl"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Do jedné misce dáme vejce, rozbijeme žloutek a jemně promícháme."
+                                   , "V jiné misce zkombinujeme dashi, sojovou omáčku, cukr, mirin a sůl."
+                                   , "Přidáme obsah druhé misky do vajec a jemně promícháme."
+                                   , "Rozehřejeme pánev (střední plamen / nastavení). Papírový ubrousek namočíme do oleje a vymažeme pánev."
+                                   , "Pokryjeme pánev směsí vajíčka. Jakmile se začne dělat spodní vrstva (horní vrstva vajíček je ještě měkká), začneme k jedné straně rolovat omeletu."
+                                   , "Přesuneme omeletu na druhou stranu pánve a znovu ji vymažeme. Přilijeme vaječnou směs (i trochu pod omeletu) a opět zamotáme, pokračujeme dokud máme vaječnou směs."
+                                   , "Po posledním zamotání můžeme ještě trochu osmažit vršek omelety (otáčíme v pánvi)."
+                                   , "Po vytažení z pánve zabalíme omeletu do bambusové podložky na cca 5 minut."]}
+                   ]
+ , "notes"       : []
+}

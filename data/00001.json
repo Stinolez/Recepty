@@ -1,2 +1,22 @@
-{ "name" : "Recept 3"
+{  "name"        : "Hrušková bábovka"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "3/4 kg hrušky"
+                                   , "4 pol. lž. citronová šťáva"
+                                   , "150 g máslo"
+                                   , "100 g cukr"
+                                   , "3 ks vejce"
+                                   , "350 g hladká mouka"
+                                   , "1 ks prášek do pečiva"
+                                   , "200 ml  mléka"
+                                   , "skořice"
+                                   , "muškátový oříšek"
+                                   , "rum"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Dejte šlehat vejce s cukrem. Mezitím oloupejte a nakrájejte na kousky hrušky a pokapejte citronovou šťávou."
+                                   , "K cukru a vejcím přidejte postupně máslo, mouku s práškem do pečiva, mléko, špetku muškátového oříšku, skořici a rum."
+                                   , "Do těsta zamíchejte nakrájené hrušky."
+                                   , "Těsto dejte do vymazané a vysypané formy, pečte asi 60 minut při 190°C."]}
+                   ]
+ , "notes"       : []
 }

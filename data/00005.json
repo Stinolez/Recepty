@@ -1,0 +1,17 @@
+{  "name"        : "Anko"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "150 g adzuki fazole"
+                                   , "150 g hnědý cukr"
+                                   , "špetka soli"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Propláchneme a namočíme fazole přes noc."
+                                   , "Další den opět propláchneme, nalijeme dostatečně vody, aby byly ponořené, a přivedeme k varu. Odstavíme a necháme pět minut v horké vodě a slijeme. Toto opakujeme celkem třikrát."
+                                   , "Po třetím převaření se zbavíme vody, přidáme novou vodu a přivedeme zpět k varu. Ztlumíme na střední plamen a necháme vařit zhruba hodinu, až dvě, dokud nebudou fazole měkké, aby bylo možné je rozmáčknout prsty. Pokud je nutné, přiléváme vodu a sbíráme pěnu, která se na vrchu tvoří."
+                                   , "Jakmile jsou fazole měkké, opět je slijeme - tentokrát vodu ponecháme! Fazole rozšťoucháme na kaši, přidáme trochu slité vody a dáme zpět na sporák."
+                                   , "Postupně přidáváme a vmícháváme cukr dokud se všechen nerozpustí. Vaříme do konzistence, kdy můžeme hrábnout vařečkou a odkrýt dno hrnce po dobu delší než dvě vteřiny."
+                                   , "Poté přidáme špetku soli, zamícháme a odstavíme."
+                                   , "Přeneseme vychladlou pastu do nádoby a skladujeme v lednici (cca 2 - 3 týdny) nebo v mrazáku (cca 2 - 3 měsíce)."]}
+                   ]
+ , "notes"       : []
+}

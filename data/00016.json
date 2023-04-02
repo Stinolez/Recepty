@@ -1,0 +1,14 @@
+{  "name"        : "Palačinky"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "400 ml mléko"
+                                   , "1 ks vejce"
+                                   , "200 g hladké mouky"
+                                   , "špetka sůl"
+                                   , "rostlinný olej"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Hladkou mouku rozmixujeme se špetkou soli, mlékem a vejcem tak, aby vznikla správná hustá směs vhodná pro palačinky."
+                                   , "Na pánev s rozpáleným olejem vlijeme přibližně jednu malou naběračku směsi. Palačinku smažíme z obou stran dozlatova."]}
+                   ]
+ , "notes"       : []
+}

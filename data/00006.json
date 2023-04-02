@@ -1,0 +1,35 @@
+{  "name"        : "Oyakodon"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "2 ks kuřecí stehenní řízek"
+                                   , "1/2 ks cibule"
+                                   , "2 ks velké vejce"
+                                   , "2/3 hrníčku dashi"
+                                   , "1 1/2 pol. lž. mirin"
+                                   , "1 1/2 pol. lž. saké"
+                                   , "1 1/2 pol. lž. sojové omáčky"
+                                   , "1 1/2 čaj. lž. cukru"
+                                   , "3 hrníčky rýže"
+                                   , "1 ks jarní cibulka"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy přípravyps_1"
+                       , "data" : [  "V misce smícháme dashi, mirin, saké, sojovou omáčku. Přidáme cukr a mícháme, dokud se nerozpustí."
+                                   , "Nakrájíme cibuli na tenké plátky, na kolečka jarní cibulku a maso nakrájíme na malé kousky."
+                                   , "V misce rozkvrdláme vajíčko."
+                                   , "Do rozpálené pánve dáme cibuli, trochu osmahneme a pak zalijeme směsí z bodu (1). Přidáme maso, ujistíme se, že maso. Ujistíme se, že jak maso, tak cibule jsou ponořeny."
+                                   , "Na střední plamen přivedeme k varu, pak snížíme teplotu, odstraníme pěnu (pokud je nějaká), přikryjeme a vaříme zhruba 5 minut, nebo dokud není maso růžové."
+                                   , "Pak pomalu a rovnoměrně pokryjeme směs vajíčkem a vaříme dál, dokud na mírném ohni, dokud vajíčka nejsou uvařena tak, jak je máte rádi."
+                                   , "Odstraníme z plotny, směs nandáme do misky s rýží a na závěr posypeme nakrájenou jarní cibulkou."]}
+                   ]
+ , "notes"       : [  "Termín Oyakodon pochází z \"oya\" (rodič - kuře), \"ko\" (dítě - vejce) a \"don\" (miska rýže)."]
+}
+
+
+
+
+
+
+
+
+
+
+

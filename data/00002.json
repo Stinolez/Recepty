@@ -1,2 +1,13 @@
-{ "name" : "Recept 1"
+{  "name"        : "Vaječný koňak"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "1 ks slazené kondenzované mléko"
+                                   , "1,5 - 2 ks neslazené kondenzované mléko"
+                                   , "1 ks vejce"
+                                   , "1/2 - 3/4 ks vanilkový cukr"
+                                   , "1/4 l rum"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Všechny ingredience smícháme v mixéru a důkladně promixujeme."]}
+                   ]
+ , "notes"       : []
 }

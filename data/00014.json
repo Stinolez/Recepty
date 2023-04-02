@@ -1,0 +1,20 @@
+{  "name"        : "Pečený cheesecake"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "550 g cream cheese"
+                                   , "160 g cukr"
+                                   , "3 ks vejce"
+                                   , "2 pol. lžíce hladké mouky"
+                                   , "1 ks citrón (nastrouhaná kůra)"
+                                   , "200 g maliny"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Předehřejeme troubu na 180°C."
+                                   , "Ušleháme cream cheese a cukr."
+                                   , "Postupně přimícháváme rozkvrdlaná vajíčka dokud není vše spojené."
+                                   , "Přidáme mouku a citrónovou kůru a promícháme."
+                                   , "Vložíme maliny a vzniklé těsto přes ně \"překládáme\", aby maliny zůstaly celé."
+                                   , "Opatrně vylijeme do vymazané formy na dort a poklepeme formou o pracovní povrch (dostaneme z těsta bubliny a pomůžeme malinám se dostat na povrch)."
+                                   , "Pečeme v předehřáté troubě zhruba 35 minut."]}
+                   ]
+ , "notes"       : []
+}

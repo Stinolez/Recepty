@@ -1,0 +1,22 @@
+{  "name"        : "Ochazuke"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "1 - 2 ks losos"
+                                   , "1 hrníček japonské krátko-zrnné rýže"
+                                   , "1/2 plátku řasy nori"
+                                   , "1/4 čaj. lžičky bílý sezamu"
+                                   , "1 ks jarní cibulka"
+                                   , "1 hrníček dashi"
+                                   , "1 čaj. lžička mirin"
+                                   , "1 čaj. lžička sojové omáčky"
+                                   , "sůl"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Osolíme lososa a na pečícím papíru dáme péct do trouby na 180° po dobu 10 - 15 min."
+                                   , "Rýži připravíme podle návodu."
+                                   , "Na sucho opražíme sezam."
+                                   , "V malém hrnci smícháme dashi, mirin, sojovou omáčku a špetku soli a přivedeme k varu. Přelijeme do konvičky."
+                                   , "Do misky nandáme rýži, lososa rozdrobeného na kousky, posypeme nasekanou řasou nori a opraženými sezamovými semínky, přidáme na drobno nakrájenou jarní cibulku."
+                                   , "Podáváme s konvičkou, ze které dle libosti přiléváme."]}
+                   ]
+ , "notes"       : []
+}

@@ -1,0 +1,18 @@
+{  "name"        : "Furikake"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "10 g kombu"
+                                   , "10 g katsuobushi (sušený tuňák)"
+                                   , "1 pol. lžíce bílého sezamu"
+                                   , "0,5 pol. lžíce černého sezamu"
+                                   , "1 plát řasy Nori"
+                                   , "1 čaj. lžička cukru"
+                                   , "2 čaj. lžičky sojové omáčky"
+                                   , "1 špetka soli"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Nakrájejte kombu na malé kousky a spolu s katsuobushi dejte do hrnce. Ohřívejte na mírném ohni dokud nejsou suroviny suché."
+                                   , "Přidejte sůl, cukr a sojovou omáčku a dál ohřívejte, než se odpaří voda."
+                                   , "Nechte zchladnout na tácu či talíři, pak přidejte sezamová semínka a na kousky nakrájenou Nori řasu."]}
+                   ]
+ , "notes"       : []
+}
