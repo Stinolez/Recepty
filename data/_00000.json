@@ -1,0 +1,11 @@
+{  "name"        : "Název"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "1"
+                                   , "2"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "1"
+                                   , "2"]}
+                   ]
+ , "notes"       : []
+}
