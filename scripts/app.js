@@ -4,7 +4,7 @@ var app = (function () {
 
   // Private variables
   var appName    = 'Receptář'
-    , appVersion = '23.04.02.002514'
+    , appVersion = '23.04.02.123310'
     , appOwner   = 'Tomáš \'Stínolez\' Vitásek';
 
   // DOM variables
@@ -13,25 +13,29 @@ var app = (function () {
   // Create element
   function createElement(elementType, data) {
 
-    /********************************************************
-    | Element | Data                                        |
-    ---------------------------------------------------------
-    | div     | [className, attributes, HTML content]       |
-    | span    |                                             |
-    | tr      |                                             |
-    | td      |                                             |
-    | li      |                                             |
-    ---------------------------------------------------------
-    | ul      | [className, [                               |
-    | ol      |               [className, attributes, 1],   |
-    |         |               [className, attributes, 2],   |
-    |         |               ...                           |
-    |         |             ]]                              |
-    |         |                                             |
-    ********************************************************/
+    /********************************************************************
+    | Element | Data                                                    |
+    ---------------------------------------------------------------------
+    | div     | [className, attributes, HTML content]                   |
+    | span    |                                                         |
+    | h2      |                                                         |
+    | p       |                                                         |
+    | tr      |                                                         |
+    | td      |                                                         |
+    | li      |                                                         |
+    | img     |                                                         |
+    ---------------------------------------------------------------------
+    | ul      | [className, attributes, [                               |
+    | ol      |                           [className, attributes, 1],   |
+    |         |                           [className, attributes, 2],   |
+    |         |                           ...                           |
+    |         |                         ]]                              |
+    |         |                                                         |
+    ********************************************************************/
 
     // Create element by the type
-    let element = document.createElement(elementType);
+    let element    = document.createElement(elementType)
+      , attributes = JSON.parse(data[1]);
 
     // Use different settings for different element types
     switch(elementType) {
@@ -39,14 +43,16 @@ var app = (function () {
       // Element: div, span, ul, li
       case 'div':
       case 'span':
+      case 'h2':
+      case 'p':
       case 'tr':
       case 'td':
       case 'li':
+      case 'img':
 
         element.className = data[0];
         element.innerHTML = data[2];
 
-        let attributes = JSON.parse(data[1]);
         for (let attr in attributes) {
           if (attr.indexOf('data-') === -1) {
             element[attr] = attributes[attr];
@@ -60,8 +66,17 @@ var app = (function () {
       case 'ul':
       case 'ol':
 
-        let listData = data[1];
+        let listData = data[2];
         element.className = data[0];
+
+        for (let attr in attributes) {
+          if (attr.indexOf('data-') === -1) {
+            element[attr] = attributes[attr];
+          } else {
+            element.dataset[attr.replace('data-', '')] = attributes[attr];
+          }
+        }
+
         for (let i = 0; i < listData.length; i++) {
           let sub = createElement('li', listData[i]);
           element.appendChild(sub);
@@ -101,11 +116,16 @@ var app = (function () {
     xobj.send(null);
   }
 
+  // Function to comparable string
+  function comparable(str) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
   // Sort array by key
   function sortByKey(array, key) {
     return array.sort(function(a, b) {
-      let x = a[key].toLowerCase()
-        , y = b[key].toLowerCase();
+      let x = comparable(a[key])
+        , y = comparable(b[key]);
       return ((x < y ? -1 : ((x > y) ? 1 : 0)));
     });
   }
@@ -123,11 +143,19 @@ var app = (function () {
     for (let i = 0; i < data.length; i++) {
 
       // Defining recipe data / new elements
-      let name = data[i].name
-        , attr = {"data-tags": name.toLowerCase() + '|' + data[i].tags.join('|').toLowerCase(), "data-uid": data[i].uid}
-        , recipe = createElement('div', ['recipe', JSON.stringify(attr), name]);
+      let name  = data[i].name
+        , tags  = comparable(name + '|' + data[i].tags.join('|'))
+        , uid   = data[i].uid
+        , image = '../images/' + (data[i].image ? 'data/' + uid + '.png' : 'system/no-image.png')
+        , d_attr = {"data-tags": tags, "data-uid": uid}
+        , i_attr = {"src": image}
+        , recipe = createElement('div', ['recipe', JSON.stringify(d_attr), ''])
+        , title  = createElement('div', ['recipe-title', '{}', name])
+        , img    = createElement('img', ['recipe-image', JSON.stringify(i_attr), ''])
 
       // Append the elements
+      recipe.appendChild(img);
+      recipe.appendChild(title);
       recipes.appendChild(recipe);
 
     }
@@ -136,7 +164,7 @@ var app = (function () {
     if (document.getElementsByClassName('recipe').length > 0) {
       for (let i = 0; i < document.getElementsByClassName('recipe').length; i++) {
         document.getElementsByClassName('recipe')[i].addEventListener('click', function(e) {
-          location.href = 'recipe.html?uid=' + e.target.dataset.uid;
+          location.href = 'recipe.html?uid=' + e.target.parentNode.dataset.uid;
         });
       }
     }
@@ -145,11 +173,76 @@ var app = (function () {
 
   // Registering recipe
   function registerRecipe(json) {
-    let data = JSON.parse(json);
+
+    let data   = JSON.parse(json)
+      , recipe = document.getElementById('recipe');
 
     // Add recipe name
     document.getElementsByTagName('h1')[0].innerText = data.name;
 
+    // Going through ingredients
+    for (let i = 0; i < data.ingredients.length; i++) {
+
+      let name        = data.ingredients[i].name
+        , ingredients = [];
+
+      // Fill ingredients list
+      for (let j = 0; j < data.ingredients[i].data.length; j++) {
+        ingredients.push(['', '{}', data.ingredients[i].data[j]]);
+      }
+
+      // Create elements
+      let div    = createElement('div', ['ingredients', '{}', ''])
+        , header = createElement('h2' , ['', '{}', name])
+        , list   = createElement('ul' , ['', '{}', ingredients]);
+
+      // Append the elements
+      div.appendChild(header);
+      div.appendChild(list);
+      recipe.appendChild(div);
+
+    }
+
+    // Going through steps
+    for (let i = 0; i < data.steps.length; i++) {
+
+      let name        = data.steps[i].name
+        , steps = [];
+
+      // Fill steps list
+      for (let j = 0; j < data.steps[i].data.length; j++) {
+        steps.push(['', '{}', data.steps[i].data[j]]);
+      }
+
+      // Create elements
+      let div    = createElement('div', ['steps', '{}', ''])
+        , header = createElement('h2' , ['', '{}', name])
+        , list   = createElement('ol' , ['', '{}', steps]);
+
+      // Append the elements
+      div.appendChild(header);
+      div.appendChild(list);
+      recipe.appendChild(div);
+
+    }
+
+    // Going through notes
+    let notes_div    = createElement('div', ['notes', '{}', ''])
+      , notes_header = createElement('h2' , ['', '{}', 'Poznámky']);
+
+    // Append the elements
+    notes_div.appendChild(notes_header);
+
+    // List of notes
+    for (let i = 0; i < data.notes.length; i++) {
+      let notes_data = createElement('p', ['', '{}', data.notes[i]]);
+      notes_div.appendChild(notes_data);
+    }
+
+    // Append the elements
+    if (data.notes.length > 0) {
+      recipe.appendChild(notes_div);
+    }
 
   }
 
@@ -201,6 +294,13 @@ var app = (function () {
         });
       }
 
+      // Register the refresh icon
+      if (document.getElementById('headerRefresh')) {
+        document.getElementById('headerRefresh').addEventListener('click', function(e) {
+          location.reload();
+        });
+      }
+
       // Register the search icon
       if (document.getElementById('headerSearch')) {
 
@@ -227,7 +327,7 @@ var app = (function () {
 
         document.getElementById('recipeSearch').addEventListener('keyup', function(e) {
 
-          let search = document.getElementById('recipeSearch').value.toLowerCase();
+          let search = comparable(document.getElementById('recipeSearch').value);
 
           if (search !== '') {
             for (let i = 0; i < document.getElementsByClassName('recipe').length; i++) {
