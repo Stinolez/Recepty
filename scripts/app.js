@@ -4,7 +4,7 @@ var app = (function () {
 
   // Private variables
   var appName    = 'Receptář'
-    , appVersion = '23.04.02.123310'
+    , appVersion = '23.04.05.222214'
     , appOwner   = 'Tomáš \'Stínolez\' Vitásek';
 
   // DOM variables
