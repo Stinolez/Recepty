@@ -1,0 +1,27 @@
+{  "name"        : "Koláč se žmolenkou"
+ , "ingredients" : [  {  "name" : "Ingredience (těsto)"
+                       , "data" : [  "1 hrnek polohrubé mouky"
+                                   , "1 hrnek hrubé mouky"
+                                   , "1 hrnek cukr krupice"
+                                   , "1 hrnek mléka"
+                                   , "1/2 hrnku oleje"
+                                   , "1 vejce"
+                                   , "1/2 prášku do pečiva"]}
+                    , {  "name" : "Ingredience (žmolenka)"
+                       , "data" : [  "150 g polohrubé mouky"
+                                   , "60 g cukr krupice"
+                                   , "80 g másla"
+                                   , "1 vanilkový cukr"]}
+                    , {  "name" : "Ingredience (ostatní)"
+                       , "data" : [  "ovoce"
+                                   , "tuk na vymazání plechu"
+                                   , "strouhanka / mouka na vysypání"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Plech vymažeme tukem a vysypeme strouhankou."
+                                   , "Všechny suroviny na těsto smícháme v míse a vylijeme na vymazaný a vysypaný plech."
+                                   , "Poklademe ovocem a zasypeme žmolenkou, kterou jsme připravili smícháním změklého másla, cukrů a mouky."
+                                   , "Pečeme v troubě vyhřáté na 180 °C cca 30 minut."]}
+                   ]
+ , "notes"       : []
+}

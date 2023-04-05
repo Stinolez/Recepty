@@ -1,0 +1,11 @@
+{  "name"        : "Máslo"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "500 ml smetany (min. 35% tuku)"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Smetanu dáme do šlehače a pomalu šleháme, dokud se neoddělí podmáslí od másla."
+                                   , "Přes plátno přecedíme podmáslí (uchováme na další použití), máslo zabalíme a propláchneme v ledové vodě."
+                                   , "Vyjmeme máslo z plátna do uzavíratelné krabičky a skladujeme v lednici (můžeme i zmrazit)."]}
+                   ]
+ , "notes"       : []
+}

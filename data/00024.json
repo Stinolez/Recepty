@@ -1,0 +1,27 @@
+{  "name"        : "Kakaový koláč s meruňkovou marmeládou"
+ , "ingredients" : [  {  "name" : "Ingredience (těsto)"
+                       , "data" : [  "4 ks vejce"
+                                   , "200 g cukru"
+                                   , "200 ml vody"
+                                   , "150 ml oleje"
+                                   , "200 g polohrubé mouky"
+                                   , "1/2 balení prášku do pečiva"
+                                   , "4 pol. lžíce kakaa"]}
+                    , {  "name" : "Ingredience (náplň)"
+                       , "data" : [  "4-5 pol. lžic meruňkové marmelády"
+                                   , "200 ml zakysané smetany"]}
+                    , {  "name" : "Ingredience (poleva)"
+                       , "data" : [  "60 g hořké čokolády"
+                                   , "1 pol. lžíce oleje"
+                                   , "1 pol. lžíce mléka"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Vyšleháme žloutky s cukrem do pěny, přidáme vodu a olej a mixérem šleháme."
+                                   , "Přidáme kakao a mouku rozmíchanou s práškem do pečiva. Nakonec jemně vmícháme sníh vyšlehaný z bílků."
+                                   , "Takto připravené těsto vylijeme na plech vyložený papírem na pečení s rozměry 40 x 30 cm a pečeme při teplotě 180°C asi 30 minut. Upečené těsto necháme vychladnout."
+                                   , "Vychladlé těsto rozřízneme na polovinu. Jednu polovinu potřeme meruňkovou marmeládou, kterou předtím krátce povaříme - tak dosáhneme, že se marmeláda snadněji vpije do těsta. Hned na marmeládu natřeme zakysanou smetanu. Přikryjeme druhou částí těsta, rukama mírně přitlačíme."
+                                   , "Na polevu si mléko vlijeme do kastrolu, přidáme nalámanou čokoládu, mírně ohřejeme, dokud se čokoláda nerozpustí. Nakonec přidáme olej a mírně teplou polevou polijeme celý koláč."
+                                   , "Necháme vychladnout. Pak nakrájíme na řezy a podáváme s vyšlehanou šlehačkou."]}
+                   ]
+ , "notes"       : []
+}

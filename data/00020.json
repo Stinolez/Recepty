@@ -1,0 +1,27 @@
+{  "name"        : "Hovězí Stroganoff"
+ , "ingredients" : [  {  "name" : "Ingredience"
+                       , "data" : [  "600 g hovězího"
+                                   , "2 pol. lžcíce oleje"
+                                   , "1 velká cibule"
+                                   , "300 g hhub"
+                                   , "40 g másla"
+                                   , "2 pol. lžíce mouky"
+                                   , "500 ml hovězího vývaru"
+                                   , "1 pol. lžíce dijonské hořcice"
+                                   , "150 ml zakysané smetany"
+                                   , "sůl"
+                                   , "pepř"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Hovězí naklepeme na tloušku asi 3/4cm a nakrájíme na tenké proužky (do 0,5cm). Osolíme a opepříme."
+                                   , "Rozpálíme lžíci oleje na pánvi a polovinu hovězího zprudka orestujeme, 30 vteřin z každé strany. Následně odložíme bokem na talíř a provedeme to samé s druhou polovinou masa."
+                                   , "Do nyní prázdné pánve dáme máslo a na středním plameni necháme rozpustit. Orestujeme na něm cibuli nakrájenou na jemno, zhruba minutu."
+                                   , "Následně přidáme houby a restujeme do zlatova."
+                                   , "Přidáme mouku, vaříme za stálého míchání minutu, poté přidáme polovinu vývaru a mícháme, aby nevznikly hrudky."
+                                   , "Po rozmíchání přidáme zbytek vývaru, následně zakysanou smetanu a hořčici."
+                                   , "Přivedeme k varu, zmírníme plamen a necháme vařit dokud nám omáčka nezhoustne."
+                                   , "Přidáme sůl a pepř dle chuti, znovu vložíme hovězí a vaříme dokud nebude hotové."
+                                   , "Podáváme s těstovinami, vaječnými nudlemi, nebo knedlíkem."]}
+                   ]
+ , "notes"       : []
+}
