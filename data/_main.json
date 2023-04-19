@@ -22,5 +22,6 @@
             , { "name" : "Koláč se žmolenkou",                    "uid" : "00022", "image" : true, "tags" : ["dezert", "ovoce", "žmolenka"] }
             , { "name" : "Máslo",                                 "uid" : "00023", "image" : true, "tags" : ["smetana", "mléčný výrobek"] }
             , { "name" : "Kakaový koláč s meruňkovou marmeládou", "uid" : "00024", "image" : true, "tags" : ["dezert", "kakao", "marmeláda"] }
+            , { "name" : "Mandarinková hrk hrk buchta",           "uid" : "00025", "image" : true, "tags" : ["dezert", "puding bez vaření", "mandarinky"] }
            ]
 }

@@ -1,0 +1,22 @@
+{  "name"        : "Mandarinková hrk hrk buchta"
+ , "ingredients" : [  {  "name" : "Ingredience (těsto)"
+                       , "data" : [  "3/4 hrnku cukru krystal"
+                                   , "1 a 1/2 hrnku polohrubé mouky"
+                                   , "2 ks vajíčka"
+                                   , "1/2 hrnku oleje"
+                                   , "1/2 hrnku mléka"
+                                   , "1 prášek do pečiva"]}
+                    , {  "name" : "Ingredience (krém)"
+                       , "data" : [  "2 plechovky mandarinek"
+                                   , "šlehačka"
+                                   , "ztužovač"
+                                   , "Vanilkový puding bez vaření OLÉ"]}
+                   ]
+ , "steps"       : [  {  "name" : "Postup přípravy"
+                       , "data" : [  "Suroviny na těsto smícháme a pečlivě promícháme, nalijeme do vymazaného a vysypaného plechu."
+                                   , "Pečeme ve středně vyhřáté troubě 15 minut."
+                                   , "V průběhu pečení si připravíme krém. Suroviny dáme do uzavíratelné nádoby (mandarinky i se šťávou), nemícháme, nádobu uzavřeme a několika rychlými pohyby nádobu zahrkáme. Během několika vteřin vznikne hustý mandarinkový krém."
+                                   , "Krém natřeme na vychladlou buchtu."]}
+                   ]
+ , "notes"       : [  "Můžeme ozdobit čokoládou."]
+}
