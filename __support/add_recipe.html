@@ -1,78 +1,82 @@
 <!DOCTYPE html>
 <html lang="cs">
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Přidat recept</title>
-  <link rel="stylesheet" type="text/css" href="add_recipe.css">
+  <link rel="stylesheet" type="text/css" href="add_recipe.min.css">
 </head>
+
 <body>
-<body>
 
-  <!-- HEADER -->
-  <header>
-    <h1 class="headerTitle">Přidat recept</h1>
-  </header>
+  <body>
 
-  <!-- MAIN -->
-  <main id="recipes">
-    <h2>Základní informace</h2>
-    <label for="recipe-name">Název:</label>
-    <input type="text" name="recipe-name" id="recipe-name" />
-    <label for="uid">UID:</label>
-    <input type="text" name="uid" id="uid" />
-    <label for="tags">Tagy:</label>
-    <input type="text" name="tags" id="tags" />
-    <div id="tag-cloud"></div>
-    <hr>
-    <h2>Ingredience</h2>
-    <section class="ingredients-group">
-      <label for="ingredients-group-name">Název skupiny:</label>
-      <input type="text" name="ingredients-group-name" class="ingredients-group-name" value="Ingredience" />
-      <label for="ingredients-group-item">Ingredience:</label>
-      <input type="text" name="ingredients-group-item" class="ingredients-group-item" />
-      <button class="add-ingredient-item">Přidat ingredienci</button>
-    </section>
-    <button class="add-ingredient-group">Přidat skupinu</button>
-    <hr>
-    <h2>Postup přípravy</h2>
-    <section class="recipe-group">
-      <label for="recipe-group-name">Název skupiny:</label>
-      <input type="text" name="recipe-group-name" class="recipe-group-name" value="Postup přípravy" />
-      <label for="recipe-group-item">Krok:</label>
-      <textarea name="recipe-group-item" class="recipe-group-item" rows="2"></textarea>
-      <button class="add-recipe-item">Přidat krok</button>
-    </section>
-    <button class="add-recipe-group">Přidat skupinu</button>
-    <hr>
-    <h2>Poznámky</h2>
-    <section class="notes-group">
-      <label for="notes-group-item">Poznámka:</label>
-      <input type="text" name="notes-group-item" class="notes-group-item"/>
-      <button class="add-notes-item">Přidat poznámku</button>
-    </section>
-    <button id="generate">Generovat</button>
-    <hr>
-    <h2>Hlavní JSON:</h2>
-    <div id="main_json"></div>
-    <hr>
-    <h2>JSON receptu:</h2>
-    <div id="recipe_json"></div>
-  </main>
+    <!-- HEADER -->
+    <header>
+      <h1 class="headerTitle">Přidat recept</h1>
+    </header>
 
-  <!-- COPYRIGHT -->
-  <div id="copyright"></div>
+    <!-- MAIN -->
+    <main id="recipes">
+      <h2>Základní informace</h2>
+      <label for="recipe-name">Název:</label>
+      <input type="text" name="recipe-name" id="recipe-name" />
+      <label for="uid">UID:</label>
+      <input type="text" name="uid" id="uid" />
+      <label for="tags">Tagy:</label>
+      <input type="text" name="tags" id="tags" />
+      <div id="tag-cloud"></div>
+      <hr>
+      <h2>Ingredience</h2>
+      <section class="ingredients-group">
+        <label for="ingredients-group-name">Název skupiny:</label>
+        <input type="text" name="ingredients-group-name" class="ingredients-group-name" value="Ingredience" />
+        <label for="ingredients-group-item">Ingredience:</label>
+        <input type="text" name="ingredients-group-item" class="ingredients-group-item" />
+        <button class="add-ingredient-item">Přidat ingredienci</button>
+      </section>
+      <button class="add-ingredient-group">Přidat skupinu</button>
+      <hr>
+      <h2>Postup přípravy</h2>
+      <section class="recipe-group">
+        <label for="recipe-group-name">Název skupiny:</label>
+        <input type="text" name="recipe-group-name" class="recipe-group-name" value="Postup přípravy" />
+        <label for="recipe-group-item">Krok:</label>
+        <textarea name="recipe-group-item" class="recipe-group-item" rows="2"></textarea>
+        <button class="add-recipe-item">Přidat krok</button>
+      </section>
+      <button class="add-recipe-group">Přidat skupinu</button>
+      <hr>
+      <h2>Poznámky</h2>
+      <section class="notes-group">
+        <label for="notes-group-item">Poznámka:</label>
+        <input type="text" name="notes-group-item" class="notes-group-item" />
+        <button class="add-notes-item">Přidat poznámku</button>
+      </section>
+      <button id="generate">Generovat</button>
+      <hr>
+      <h2>Hlavní JSON:</h2>
+      <div id="main_json"></div>
+      <hr>
+      <h2>JSON receptu:</h2>
+      <div id="recipe_json"></div>
+    </main>
 
-  <!-- LOADER -->
-  <div class="loader">
-    <svg viewBox="0 0 32 32" width="32" height="32">
-      <circle id="spinner" cx="16" cy="16" r="14" fill="none"></circle>
-    </svg>
-  </div>
+    <!-- COPYRIGHT -->
+    <div id="copyright"></div>
 
-  <!-- Scripts -->
-  <script src="add_recipe.js"></script>
+    <!-- LOADER -->
+    <div class="loader">
+      <svg viewBox="0 0 32 32" width="32" height="32">
+        <circle id="spinner" cx="16" cy="16" r="14" fill="none"></circle>
+      </svg>
+    </div>
 
-</body>
+    <!-- Scripts -->
+    <script src="add_recipe.min.js"></script>
+
+  </body>
+
 </html>

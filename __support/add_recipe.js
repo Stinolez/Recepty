@@ -62,6 +62,7 @@ var app = (function () {
     let data      = JSON.parse(json).data
       , maxID     = ''
       , tags      = []
+      , tags_list = []
       , tag_cloud = document.getElementById('tag-cloud');
 
     // Data sort
@@ -83,12 +84,18 @@ var app = (function () {
       return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
     }, {});
 
-    // Place the tag cloud
     for (let key in occurrences) {
+      tags_list.push({'name': key, 'value': occurrences[key]})
+    }
+    tags_list = sortByKey(tags_list, 'name');
+
+    // Place the tag cloud
+    for (let i = 0; i < tags_list.length; i++) {
       let span = document.createElement('span');
-      span.innerText          = key;
+      span.innerText          = tags_list[i].name;
       span.classList          = 'tag-cloud-detail';
-      span.dataset.occurences = occurrences[key];
+      span.dataset.occurences = tags_list[i].value;
+      span.style.fontSize     = (0.7 + (tags_list[i].value / 20)) + 'rem';
       tag_cloud.appendChild(span);
     }
 
