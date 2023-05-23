@@ -1,0 +1,44 @@
+{
+  "name": "Curry",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "400g mletého masa",
+        "2ks cibule",
+        "1ks mrkev",
+        "1-2 stonky řapíkatého celeru",
+        "1-2ks lilku",
+        "2-3ks zelených paprik",
+        "200g krájených rajčat (plech)",
+        "1/2ks jablka",
+        "40g rozinek",
+        "zázvor",
+        "1 stroužek česneku",
+        "1ks bujón",
+        "curry koření",
+        "olej",
+        "sůl"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Bujón rozpustíme ve 300ml horké vody.",
+        "Nakrájíme cibuli, celer, lilek a papriky na stejně velké kousky.",
+        "Propasírujeme česnek a najemno nakrájíme zázvor (dle chuti, zhruba asi tak na palec).",
+        "Ve velké pánvi rozehřejeme olej a osmažíme spolu zázvor s česnekem.",
+        "Jakmile se začne uvolňovat aroma, přidáme cibuli.",
+        "Když zesklovatí cibule, přidáme mrkev, celer a lilek. Povaříme 5 minut.",
+        "Vyndáme zeleninu z pánve, rozehřejeme trochu oleje a osmažíme mleté maso.",
+        "Jakmile maso zhnědne, vrátíme zpět do pánve zeleninu odloženou stranou, přidáme curry, sůl a krájená rajčata.",
+        "Jakmile směs začne vařit, přidáme nastrouhané jablko, rozinky, papriky a rozpuštěný bujón.",
+        "Na středním plameni vaříme zhruba 10 minut než zelenina trochu změkne a většina vody se odpaří.",
+        "Podáváme s rýží."
+      ]
+    }
+  ],
+  "notes": []
+}
