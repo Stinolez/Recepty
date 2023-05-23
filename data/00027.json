@@ -1,0 +1,32 @@
+{
+  "name": "Čokoládové brownie",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "4ks vejce",
+        "125g másla",
+        "1 hrnek hladké mouky",
+        "200g hořké čokolády",
+        "1 lžička kypřícího prášku",
+        "1 hrnek třtinového cukru",
+        "2 lžíce holandského kakaa"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Do misky dáme čokoládu s máslem a rozpustíme ve vodní lázni.",
+        "Do jiné mísy dáme vejce a spolu s cukrem mícháme, dokud nevznikne světlá hustá pěna.",
+        "Do rozpuštěné čokolády s máslem přidáme světlou pěnu z cukru a vajec.",
+        "Mouku prosejeme s kakaem a práškem do pečiva a vše přidáme k čokoládě.",
+        "Tuhé těsto vylijeme na pekáč s pečícím papírem a rovnoměrně rozetřeme."
+      ]
+    }
+  ],
+  "notes": [
+    "Do těsta můžeme vmíchat např. misku malin."
+  ]
+}
