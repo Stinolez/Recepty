@@ -1,0 +1,32 @@
+{
+  "name": "Lososová polévka",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "300g lososa (bez kůže)",
+        "3-4ks brambor",
+        "3-5ks mrkví",
+        "1ks cibule",
+        "250ml smetany",
+        "sůl",
+        "kopr",
+        "bobkový list",
+        "nové koření",
+        "1,5l vody"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Do hrnce s vodou dáme nové koření, bobkový list, nakrájenou cibuli a mrkev, přivedeme k varu a necháme povařit zhruba 10 minut.",
+        "Přidáme nakrájené brambory a vaříme dalších 15 minut, nebo dokud není zelenina měkká.",
+        "Přidáme na kousky nakrájeného lososa, pár minut povaříme než přidáme smetanu a kopr těsně před tím, než je losos hotový.",
+        "Odstavíme z plotny a necháme ještě chvíli 'dojít' než budeme podávat."
+      ]
+    }
+  ],
+  "notes": []
+}
