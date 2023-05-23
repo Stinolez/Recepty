@@ -1,0 +1,25 @@
+{
+  "name": "Yuzu Yokan",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "450ml vody",
+        "agar",
+        "200g cukru",
+        "1 pol. lžíce yuzu"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Ohřejte vodu v hrnci, přidejte agar (množství dle množství vody a specifikace na obalu) a cukr.",
+        "Nechte rozpustit, pak přidejte yuzu a přiveďte k varu. Necháme probublat minutu až dvě.",
+        "Odstavíme, nalijeme do nádoby a necháme zchladnout, než to dáme do lednice na 4-5 hodin ztuhnout."
+      ]
+    }
+  ],
+  "notes": []
+}
