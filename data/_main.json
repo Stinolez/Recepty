@@ -1,28 +1,307 @@
-{ "data" : [  { "name" : "Hrušková bábovka",                      "uid" : "00001", "image" : true, "tags" : ["dezert", "hruška"] }
-            , { "name" : "Vaječný koňak",                         "uid" : "00002", "image" : true, "tags" : ["nápoj", "alkohol"] }
-            , { "name" : "Dýňová bábovka",                        "uid" : "00003", "image" : true, "tags" : ["dezert", "dýně"] }
-            , { "name" : "Dorayaki",                              "uid" : "00004", "image" : true, "tags" : ["dezert", "anko", "japonsko"] }
-            , { "name" : "Anko",                                  "uid" : "00005", "image" : true, "tags" : ["japonsko", "fazole", "adzuki"] }
-            , { "name" : "Oyakodon",                              "uid" : "00006", "image" : true, "tags" : ["japonsko", "kuře", "rýže", "vejce", "dashi", "hlavní jídlo"] }
-            , { "name" : "Ochazuke",                              "uid" : "00007", "image" : true, "tags" : ["japonsko", "ryba", "rýže", "dashi", "hlavní jídlo"] }
-            , { "name" : "Furikake",                              "uid" : "00008", "image" : true, "tags" : ["japonsko", "koření", "ryba"] }
-            , { "name" : "Dashi",                                 "uid" : "00009", "image" : true, "tags" : ["japonsko", "vývar", "ryba", "dashi"] }
-            , { "name" : "Kávové želé",                           "uid" : "00010", "image" : true, "tags" : ["japonsko", "dezert", "káva"] }
-            , { "name" : "Červené zelí s jablky",                 "uid" : "00011", "image" : true, "tags" : ["příloha", "zelí"] }
-            , { "name" : "Tamagoyaki",                            "uid" : "00012", "image" : true, "tags" : ["japonsko", "příloha", "sushi", "dashi", "vejce"] }
-            , { "name" : "Jablečný coleslaw",                     "uid" : "00013", "image" : true, "tags" : ["salát", "zelí", "jablko"] }
-            , { "name" : "Pečený cheesecake",                     "uid" : "00014", "image" : true, "tags" : ["dezert", "cream cheese"] }
-            , { "name" : "Lasagne",                               "uid" : "00015", "image" : true, "tags" : ["itálie", "těstoviny", "mleté maso", "rajský protlak", "hlavní jídlo"] }
-            , { "name" : "Palačinky",                             "uid" : "00016", "image" : true, "tags" : ["dezert"] }
-            , { "name" : "Sušenky",                               "uid" : "00017", "image" : true, "tags" : ["dezert"] }
-            , { "name" : "Podmáslový chléb",                      "uid" : "00018", "image" : true, "tags" : ["chléb", "podmáslí", "droždí"] }
-            , { "name" : "Banánový chlebík",                      "uid" : "00019", "image" : true, "tags" : ["dezert", "banán"] }
-            , { "name" : "Hovězí Stroganoff",                     "uid" : "00020", "image" : true, "tags" : ["hlavní jídlo", "hovězí", "houby", "dijonská hořčice"] }
-            , { "name" : "Kynuté buchty s marmeládou",            "uid" : "00021", "image" : true, "tags" : ["dezert", "droždí", "marmeláda"] }
-            , { "name" : "Koláč se žmolenkou",                    "uid" : "00022", "image" : true, "tags" : ["dezert", "ovoce", "žmolenka"] }
-            , { "name" : "Máslo",                                 "uid" : "00023", "image" : true, "tags" : ["smetana", "mléčný výrobek"] }
-            , { "name" : "Kakaový koláč s meruňkovou marmeládou", "uid" : "00024", "image" : true, "tags" : ["dezert", "kakao", "marmeláda"] }
-            , { "name" : "Mandarinková hrk hrk buchta",           "uid" : "00025", "image" : true, "tags" : ["dezert", "puding bez vaření", "mandarinky"] }
-            , { "name" : "Trhané vepřové",                        "uid" : "00026", "image" : true, "tags" : ["hlavní jídlo", "maso", "vepřové"] }
-           ]
+{
+  "data": [
+    {
+      "name": "Hrušková bábovka",
+      "uid": "00001",
+      "image": true,
+      "tags": [
+        "dezert",
+        "hruška"
+      ]
+    },
+    {
+      "name": "Vaječný koňak",
+      "uid": "00002",
+      "image": true,
+      "tags": [
+        "nápoj",
+        "alkohol"
+      ]
+    },
+    {
+      "name": "Dýňová bábovka",
+      "uid": "00003",
+      "image": true,
+      "tags": [
+        "dezert",
+        "dýně"
+      ]
+    },
+    {
+      "name": "Dorayaki",
+      "uid": "00004",
+      "image": true,
+      "tags": [
+        "dezert",
+        "anko",
+        "japonsko"
+      ]
+    },
+    {
+      "name": "Anko",
+      "uid": "00005",
+      "image": true,
+      "tags": [
+        "japonsko",
+        "fazole",
+        "adzuki"
+      ]
+    },
+    {
+      "name": "Oyakodon",
+      "uid": "00006",
+      "image": true,
+      "tags": [
+        "japonsko",
+        "kuře",
+        "rýže",
+        "vejce",
+        "dashi",
+        "hlavní jídlo"
+      ]
+    },
+    {
+      "name": "Ochazuke",
+      "uid": "00007",
+      "image": true,
+      "tags": [
+        "japonsko",
+        "ryba",
+        "rýže",
+        "dashi",
+        "hlavní jídlo"
+      ]
+    },
+    {
+      "name": "Furikake",
+      "uid": "00008",
+      "image": true,
+      "tags": [
+        "japonsko",
+        "koření",
+        "ryba"
+      ]
+    },
+    {
+      "name": "Dashi",
+      "uid": "00009",
+      "image": true,
+      "tags": [
+        "japonsko",
+        "vývar",
+        "ryba",
+        "dashi"
+      ]
+    },
+    {
+      "name": "Kávové želé",
+      "uid": "00010",
+      "image": true,
+      "tags": [
+        "japonsko",
+        "dezert",
+        "káva"
+      ]
+    },
+    {
+      "name": "Červené zelí s jablky",
+      "uid": "00011",
+      "image": true,
+      "tags": [
+        "příloha",
+        "zelí"
+      ]
+    },
+    {
+      "name": "Tamagoyaki",
+      "uid": "00012",
+      "image": true,
+      "tags": [
+        "japonsko",
+        "příloha",
+        "sushi",
+        "dashi",
+        "vejce"
+      ]
+    },
+    {
+      "name": "Jablečný coleslaw",
+      "uid": "00013",
+      "image": true,
+      "tags": [
+        "salát",
+        "zelí",
+        "jablko"
+      ]
+    },
+    {
+      "name": "Pečený cheesecake",
+      "uid": "00014",
+      "image": true,
+      "tags": [
+        "dezert",
+        "cream cheese"
+      ]
+    },
+    {
+      "name": "Lasagne",
+      "uid": "00015",
+      "image": true,
+      "tags": [
+        "itálie",
+        "těstoviny",
+        "mleté maso",
+        "rajský protlak",
+        "hlavní jídlo"
+      ]
+    },
+    {
+      "name": "Palačinky",
+      "uid": "00016",
+      "image": true,
+      "tags": [
+        "dezert"
+      ]
+    },
+    {
+      "name": "Sušenky",
+      "uid": "00017",
+      "image": true,
+      "tags": [
+        "dezert"
+      ]
+    },
+    {
+      "name": "Podmáslový chléb",
+      "uid": "00018",
+      "image": true,
+      "tags": [
+        "chléb",
+        "podmáslí",
+        "droždí"
+      ]
+    },
+    {
+      "name": "Banánový chlebík",
+      "uid": "00019",
+      "image": true,
+      "tags": [
+        "dezert",
+        "banán"
+      ]
+    },
+    {
+      "name": "Hovězí Stroganoff",
+      "uid": "00020",
+      "image": true,
+      "tags": [
+        "hlavní jídlo",
+        "hovězí",
+        "houby",
+        "dijonská hořčice"
+      ]
+    },
+    {
+      "name": "Kynuté buchty s marmeládou",
+      "uid": "00021",
+      "image": true,
+      "tags": [
+        "dezert",
+        "droždí",
+        "marmeláda"
+      ]
+    },
+    {
+      "name": "Koláč se žmolenkou",
+      "uid": "00022",
+      "image": true,
+      "tags": [
+        "dezert",
+        "ovoce",
+        "žmolenka"
+      ]
+    },
+    {
+      "name": "Máslo",
+      "uid": "00023",
+      "image": true,
+      "tags": [
+        "smetana",
+        "mléčný výrobek"
+      ]
+    },
+    {
+      "name": "Kakaový koláč s meruňkovou marmeládou",
+      "uid": "00024",
+      "image": true,
+      "tags": [
+        "dezert",
+        "kakao",
+        "marmeláda"
+      ]
+    },
+    {
+      "name": "Mandarinková hrk hrk buchta",
+      "uid": "00025",
+      "image": true,
+      "tags": [
+        "dezert",
+        "puding bez vaření",
+        "mandarinky"
+      ]
+    },
+    {
+      "name": "Trhané vepřové",
+      "uid": "00026",
+      "image": true,
+      "tags": [
+        "hlavní jídlo",
+        "maso",
+        "vepřové"
+      ]
+    },
+    {
+      "name": "Čokoládové brownie",
+      "uid": "00027",
+      "image": true,
+      "tags": [
+        "dezert",
+        "čokoláda",
+        "maliny"
+      ]
+    },
+    {
+      "name": "Yuzu Yokan",
+      "uid": "00028",
+      "image": true,
+      "tags": [
+        "japonsko",
+        "dezert",
+        "agar",
+        "yuzu"
+      ]
+    },
+    {
+      "name": "Curry",
+      "uid": "00029",
+      "image": true,
+      "tags": [
+        "mleté maso",
+        "japonsko",
+        "curry",
+        "lilek"
+      ]
+    },
+    {
+      "name": "Lososová polévka",
+      "uid": "00030",
+      "image": true,
+      "tags": [
+        "losos",
+        "ryba",
+        "japonsko",
+        "kopr"
+      ]
+    }
+  ]
 }
