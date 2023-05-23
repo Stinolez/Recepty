@@ -1,16 +1,27 @@
-{  "name"        : "Dashi"
- , "ingredients" : [  {  "name" : "Ingredience"
-                       , "data" : [  "10 g kombu"
-                                   , "10 g katsuobushi (sušený tuňák)"
-                                   , "1 l voda"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy"
-                       , "data" : [  "Do středního hrnce dáme vodu a kombu (můžeme dát máčet 2-3 hodiny v létě, 4-5 hodin v zimě, nebo přes noc v lednici)."
-                                   , "Na mírném ohni přivedeme skoro k varu, mezitím sbíráme pěnu."
-                                   , "Předtím než dashi začne vařit, odstraníme kombu z hrnce a uchováme pro později - buď druhý vývar, nebo domácí Furikake."
-                                   , "Přidáme katsuobushi a přivedeme k varu."
-                                   , "Jakmile dashi vaří, zmírníme plamen a necháme probublat 30 vteřin, než vypneme plotýnku."
-                                   , "Necháme katsuobushi ponořit na dno - cca 10 minut, pak zcedíme a zbytek katsuobushi necháme na druhý vývar, nebo domácí Furikake."]}
-                   ]
- , "notes"       : []
+{
+  "name": "Dashi",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "10 g kombu",
+        "10 g katsuobushi (sušený tuňák)",
+        "1 l voda"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Do středního hrnce dáme vodu a kombu (můžeme dát máčet 2-3 hodiny v létě, 4-5 hodin v zimě, nebo přes noc v lednici).",
+        "Na mírném ohni přivedeme skoro k varu, mezitím sbíráme pěnu.",
+        "Předtím než dashi začne vařit, odstraníme kombu z hrnce a uchováme pro později - buď druhý vývar, nebo domácí Furikake.",
+        "Přidáme katsuobushi a přivedeme k varu.",
+        "Jakmile dashi vaří, zmírníme plamen a necháme probublat 30 vteřin, než vypneme plotýnku.",
+        "Necháme katsuobushi ponořit na dno - cca 10 minut, pak zcedíme a zbytek katsuobushi necháme na druhý vývar, nebo domácí Furikake."
+      ]
+    }
+  ],
+  "notes": []
 }

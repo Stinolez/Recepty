@@ -1,19 +1,30 @@
-{  "name"        : "Banánový chlebík"
- , "ingredients" : [  {  "name" : "Ingredience"
-                       , "data" : [  "2-3 ks velmi zralých banánů"
-                                   , "76 g másla"
-                                   , "150 g cukru"
-                                   , "205 g polohrubé mouky"
-                                   , "1 ks vejce"
-                                   , "1 čaj. lžička vanilkového extraktu"
-                                   , "1/2 čaj. lžičky sody"
-                                   , "špetka soli"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy"
-                       , "data" : [  "V míse vidličkou rozmělněte banány, následně vmíchejte rozpuštěné máslo."
-                                   , "Přidejte a vmíchejte postupně sodu, sůl, cukr, vejce a vanilku a jako poslední mouku."
-                                   , "Těsto nalijte do vymazané formy a pečte v předehřáté troubě na 175°C zhruba 55-65 minut."
-                                   , "Před podáváním nechte zchladnout. Uchovávejte zabalený."]}
-                   ]
- , "notes"       : []
+{
+  "name": "Banánový chlebík",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "2-3 ks velmi zralých banánů",
+        "76 g másla",
+        "150 g cukru",
+        "205 g polohrubé mouky",
+        "1 ks vejce",
+        "1 čaj. lžička vanilkového extraktu",
+        "1/2 čaj. lžičky sody",
+        "špetka soli"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "V míse vidličkou rozmělněte banány, následně vmíchejte rozpuštěné máslo.",
+        "Přidejte a vmíchejte postupně sodu, sůl, cukr, vejce a vanilku a jako poslední mouku.",
+        "Těsto nalijte do vymazané formy a pečte v předehřáté troubě na 175°C zhruba 55-65 minut.",
+        "Před podáváním nechte zchladnout. Uchovávejte zabalený."
+      ]
+    }
+  ],
+  "notes": []
 }

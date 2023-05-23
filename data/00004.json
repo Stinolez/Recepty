@@ -1,21 +1,32 @@
-{  "name"        : "Dorayaki"
- , "ingredients" : [  {  "name" : "Ingredience"
-                       , "data" : [  "4 ks vejce"
-                                   , "140 g cukr"
-                                   , "2 pol. lž. med"
-                                   , "160 g hladká mouka"
-                                   , "1 čaj. lž. prášek do pečiva"
-                                   , "2 pol. lž. mléko"
-                                   , "1 pol. lž. olej"
-                                   , "anko"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy"
-                       , "data" : [  "Smíchejte vejce, cukr a med v míse a vyšlehejte."
-                                   , "Přidejte prosátou mouku skrze síto a prášek do pečiva a metlou vyšlehejte do těsta. Nechte odpočinout 15 minut v lednici."
-                                   , "Přidejte jednu až dvě polévkové lžíce mléka pro upravení konzistence těsta na polotekuté."
-                                   , "Rozetřete olej na pánvi a na mírném ohni smažte \"palačinky\" o průměru cca 10 cm z obou stran dozlatova."
-                                   , "Hotové \"palačinky\" uchovávejte v utěrce, aby se nevysoušely."
-                                   , "Po skončení smažení namažte vždy jednu palačinku anko pastou a na ni pak dejte druhou. Ihned podávat, nebo lze zabalit do folie a zamrazit."]}
-                   ]
- , "notes"       : []
+{
+  "name": "Dorayaki",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "4 ks vejce",
+        "140 g cukr",
+        "2 pol. lž. med",
+        "160 g hladká mouka",
+        "1 čaj. lž. prášek do pečiva",
+        "2 pol. lž. mléko",
+        "1 pol. lž. olej",
+        "anko"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Smíchejte vejce, cukr a med v míse a vyšlehejte.",
+        "Přidejte prosátou mouku skrze síto a prášek do pečiva a metlou vyšlehejte do těsta. Nechte odpočinout 15 minut v lednici.",
+        "Přidejte jednu až dvě polévkové lžíce mléka pro upravení konzistence těsta na polotekuté.",
+        "Rozetřete olej na pánvi a na mírném ohni smažte \"palačinky\" o průměru cca 10 cm z obou stran dozlatova.",
+        "Hotové \"palačinky\" uchovávejte v utěrce, aby se nevysoušely.",
+        "Po skončení smažení namažte vždy jednu palačinku anko pastou a na ni pak dejte druhou. Ihned podávat, nebo lze zabalit do folie a zamrazit."
+      ]
+    }
+  ],
+  "notes": []
 }

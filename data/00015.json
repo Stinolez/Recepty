@@ -1,40 +1,67 @@
-{  "name"        : "Lasagne"
- , "ingredients" : [  {  "name" : "Ingredience (masová směs)"
-                       , "data" : [  "2 ks cibule"
-                                   , "2 stroužky česnek"
-                                   , "400 g mleté maso"
-                                   , "400 g rajčata"
-                                   , "2 ks mrkev"
-                                   , "1 ks pórek"
-                                   , "2 ks paprika"
-                                   , "140 g rajský protlak"
-                                   , "2 čaj. lžičky cukr"
-                                   , "sůl"
-                                   , "pepř"
-                                   , "oregáno"
-                                   , "olivový olej"]}
-                    , {  "name" : "Ingredience (bešamel)"
-                       , "data" : [  "500 ml mléko"
-                                   , "250 g parmezán"
-                                   , "jíška"]}
-                    , {  "name" : "Ingredience (lasagne)"
-                       , "data" : [  "nevařené lasagne"
-                                   , "150 g mozzarella"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy (masová směs)"
-                       , "data" : [  "Cibuli nakrájíme na drobno, ostatní zeleninu na malé kousky (mrkev předvaříme)."
-                                   , "Ve velké pánvi rozpálíme olivový olej, přidáme česnek a cibuli, osmahneme."
-                                   , "Přidáme mleté maso a osmahneme dokud nezhnědne a nedrolí se."
-                                   , "Přidáme zbytek zeleniny, cukr, koření a rajský protlak (plechovku můžeme vypláchnout trochou vody)."
-                                   , "Směs za občasného míchání podusíme a doděláme bez pokličky, aby se odpařila přebytečná voda."
-                                   , "Dáme stranou zchladnout."]}
-                    , {  "name" : "Postup přípravy (bešamel)"
-                       , "data" : [  "V hrnci zahřejeme mléko a za stálého míchání postupně přidáváme parmezán."
-                                   , "Po rozpuštění parmezánu přidáme jíšku pro zahuštění."]}
-                    , {  "name" : "Postup přípravy (lasagne)"
-                       , "data" : [  "V nádobě na lasagne do trouby vrstvíme: směs, polít bešamelem, lasagne (dle množství a velikosti nádoby děláme dvě až tři vrstvy). Končíme vrstvou lasagní."
-                                   , "Na vrchní vrstvu lasagní dáme na kostičky nakrájenou mozzarellu a polijeme bešamelem (všetně krajů, aby to steklo dolů)."
-                                   , "Dáme zapéct do trouby."]}
-                   ]
- , "notes"       : []
+{
+  "name": "Lasagne",
+  "ingredients": [
+    {
+      "name": "Ingredience (masová směs)",
+      "data": [
+        "2 ks cibule",
+        "2 stroužky česnek",
+        "400 g mleté maso",
+        "400 g rajčata",
+        "2 ks mrkev",
+        "1 ks pórek",
+        "2 ks paprika",
+        "140 g rajský protlak",
+        "2 čaj. lžičky cukr",
+        "sůl",
+        "pepř",
+        "oregáno",
+        "olivový olej"
+      ]
+    },
+    {
+      "name": "Ingredience (bešamel)",
+      "data": [
+        "500 ml mléko",
+        "250 g parmezán",
+        "jíška"
+      ]
+    },
+    {
+      "name": "Ingredience (lasagne)",
+      "data": [
+        "nevařené lasagne",
+        "150 g mozzarella"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy (masová směs)",
+      "data": [
+        "Cibuli nakrájíme na drobno, ostatní zeleninu na malé kousky (mrkev předvaříme).",
+        "Ve velké pánvi rozpálíme olivový olej, přidáme česnek a cibuli, osmahneme.",
+        "Přidáme mleté maso a osmahneme dokud nezhnědne a nedrolí se.",
+        "Přidáme zbytek zeleniny, cukr, koření a rajský protlak (plechovku můžeme vypláchnout trochou vody).",
+        "Směs za občasného míchání podusíme a doděláme bez pokličky, aby se odpařila přebytečná voda.",
+        "Dáme stranou zchladnout."
+      ]
+    },
+    {
+      "name": "Postup přípravy (bešamel)",
+      "data": [
+        "V hrnci zahřejeme mléko a za stálého míchání postupně přidáváme parmezán.",
+        "Po rozpuštění parmezánu přidáme jíšku pro zahuštění."
+      ]
+    },
+    {
+      "name": "Postup přípravy (lasagne)",
+      "data": [
+        "V nádobě na lasagne do trouby vrstvíme: směs, polít bešamelem, lasagne (dle množství a velikosti nádoby děláme dvě až tři vrstvy). Končíme vrstvou lasagní.",
+        "Na vrchní vrstvu lasagní dáme na kostičky nakrájenou mozzarellu a polijeme bešamelem (všetně krajů, aby to steklo dolů).",
+        "Dáme zapéct do trouby."
+      ]
+    }
+  ],
+  "notes": []
 }

@@ -1,20 +1,31 @@
-{  "name"        : "Podmáslový chléb"
- , "ingredients" : [  {  "name" : "Ingredience"
-                       , "data" : [  "350 ml podmáslí"
-                                   , "2 pol. lžíce másla"
-                                   , "2 pol. lžíce cukru"
-                                   , "1 čaj. lžička soli"
-                                   , "450 g pol. mouky"
-                                   , "21 g droždí"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy"
-                       , "data" : [  "V míse smícháme podmáslí, rozpuštěné máslo a cukr."
-                                   , "V druhé míse smícháme mouku, sůl a droždí. Následně postupně přidáváme do mísy s podmáslím."
-                                   , "Jakmile jsou všechny ingredience smíchané, vypracujeme těsto, které následně ještě hněteme zhruba 10 minut rukou (6-7 minut v robotovi)."
-                                   , "Po hnětení překryjeme mísu s těstem utěrkou a necháme na teplém místě kynout hodinu."
-                                   , "Po prvním kynutí prohněteme těsto, vytvarujeme a dáme do vymazané chlebové formy, necháme znovu vykynout po dobu 30-45 minut."
-                                   , "Předehřejeme troubu na 175°C a pečeme 30-35 minut, dokud není vršek zlatý."
-                                   , "Po vyndání z trouby necháme odstát deset minut, pak vyklopíme a necháme vychladnout na mřížce."]}
-                   ]
- , "notes"       : []
+{
+  "name": "Podmáslový chléb",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "350 ml podmáslí",
+        "2 pol. lžíce másla",
+        "2 pol. lžíce cukru",
+        "1 čaj. lžička soli",
+        "450 g pol. mouky",
+        "21 g droždí"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "V míse smícháme podmáslí, rozpuštěné máslo a cukr.",
+        "V druhé míse smícháme mouku, sůl a droždí. Následně postupně přidáváme do mísy s podmáslím.",
+        "Jakmile jsou všechny ingredience smíchané, vypracujeme těsto, které následně ještě hněteme zhruba 10 minut rukou (6-7 minut v robotovi).",
+        "Po hnětení překryjeme mísu s těstem utěrkou a necháme na teplém místě kynout hodinu.",
+        "Po prvním kynutí prohněteme těsto, vytvarujeme a dáme do vymazané chlebové formy, necháme znovu vykynout po dobu 30-45 minut.",
+        "Předehřejeme troubu na 175°C a pečeme 30-35 minut, dokud není vršek zlatý.",
+        "Po vyndání z trouby necháme odstát deset minut, pak vyklopíme a necháme vychladnout na mřížce."
+      ]
+    }
+  ],
+  "notes": []
 }

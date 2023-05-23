@@ -1,15 +1,28 @@
-{  "name"        : "Sušenky"
- , "ingredients" : [  {  "name" : "Ingredience"
-                       , "data" : [  "350 g hladká mouka"
-                                   , "150 g práškový cukr"
-                                   , "130 g máslo"
-                                   , "2 ks vejce"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy"
-                       , "data" : [  "Smícháme suché přísady, přidáme vajíčka a máslo (lehce povolené, nakrájené na kostičky) a prohněteme na hladké těsto."
-                                   , "Vypracované těsto dáme v potravinářské folii do lednice na cca 2 hodiny."
-                                   , "Vyválíme těsto a vykrájíme sušenky."
-                                   , "Pečeme při teplotě 150°C mezi 10-12 minutami."]}
-                   ]
- , "notes"       : [  "Dochutit sušenky můžeme přidáním kakaa, kokosu, skořice, nebo třeba vanilkovým cukrem / extraktem do těsta."]
+{
+  "name": "Sušenky",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "350 g hladká mouka",
+        "150 g práškový cukr",
+        "130 g máslo",
+        "2 ks vejce"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Smícháme suché přísady, přidáme vajíčka a máslo (lehce povolené, nakrájené na kostičky) a prohněteme na hladké těsto.",
+        "Vypracované těsto dáme v potravinářské folii do lednice na cca 2 hodiny.",
+        "Vyválíme těsto a vykrájíme sušenky.",
+        "Pečeme při teplotě 150°C mezi 10-12 minutami."
+      ]
+    }
+  ],
+  "notes": [
+    "Dochutit sušenky můžeme přidáním kakaa, kokosu, skořice, nebo třeba vanilkovým cukrem / extraktem do těsta."
+  ]
 }

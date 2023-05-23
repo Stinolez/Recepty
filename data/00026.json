@@ -1,30 +1,47 @@
-{  "name"        : "Trhané vepřové"
- , "ingredients" : [  {  "name" : "Ingredience"
-                       , "data" : [  "1-2 kg vepřové krkovice"
-                                   , "1-2 ks cibule"
-                                   , "1/2 l pivo / cider"
-                                   , "olej"]}
-                    , {  "name" : "Suchá marináda"
-                       , "data" : [  "2 pol. lžíce třtinového cukru"
-                                   , "1 pol. lžíce mletého chilli"
-                                   , "1 čaj. lžička soli"
-                                   , "1 čaj. lžička sladké papriky"
-                                   , "1/2 čaj. lžičky mletého pepře"
-                                   , "1/2 čaj. lžičky oregána"
-                                   , "1/2 čaj. lžičky sušeného česneku"
-                                   , "1/2 čaj. lžičky mletého římského kmínu"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy"
-                       , "data" : [  "V malé misce smícháme všechny suroviny na suchou marinádu."
-                                   , "Osušíme vepřové papírovými ubrousky, pokryjeme ze všech stran smíchanou suchou marinádou, zabalíme do folie. Necháme marinovat v lednici po dobu 12-24 hodin (alespoň přes noc)."
-                                   , "Troubu předehřejeme na 150°C."
-                                   , "Ve větším hrnci (kam se nám vejde maso a může do trouby!) si rozehřejeme trochu oleje."
-                                   , "Nakrájíme cibuli na větší kousky, osmahneme na oleji (cca 2-3 minuty)."
-                                   , "Do hrnce vložíme marinované vepřové a zatáhneme ze všech stran (cca 2-5 minut z každé strany)."
-                                   , "Podlijeme maso pivem/ciderem a přikryté dáme do předehřáté trouby na 2-3 hodiny, v závislosti na velikosti masa."
-                                   , "Zhruba po hodině a půl zkontrolujeme teploměrem na maso a případně prodloužíme / zkrátíme dobu pečení dle potřeby. Vnitřní teplota masa by měla dosáhnout 91°C."
-                                   , "Po vytažení z trouby necháme chvíli odstát, jakmile se bude dát s masem pracovat (a je ještě teplé), můžeme ho nakrájet na menší kousky, které se nám budou v míse lépe trhat vidličkami."
-                                   , "Po natrhání můžeme přidat např. BBQ omáčku, kečup."]}
-                   ]
- , "notes"       : [  "Větší kusy krkovice můžeme rozkrojit na menší, aby se s nimi lépe manipulovalo při úvodním zatáhnutí, navíc se uvaří rychleji."]
+{
+  "name": "Trhané vepřové",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "1-2 kg vepřové krkovice",
+        "1-2 ks cibule",
+        "1/2 l pivo / cider",
+        "olej"
+      ]
+    },
+    {
+      "name": "Suchá marináda",
+      "data": [
+        "2 pol. lžíce třtinového cukru",
+        "1 pol. lžíce mletého chilli",
+        "1 čaj. lžička soli",
+        "1 čaj. lžička sladké papriky",
+        "1/2 čaj. lžičky mletého pepře",
+        "1/2 čaj. lžičky oregána",
+        "1/2 čaj. lžičky sušeného česneku",
+        "1/2 čaj. lžičky mletého římského kmínu"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "V malé misce smícháme všechny suroviny na suchou marinádu.",
+        "Osušíme vepřové papírovými ubrousky, pokryjeme ze všech stran smíchanou suchou marinádou, zabalíme do folie. Necháme marinovat v lednici po dobu 12-24 hodin (alespoň přes noc).",
+        "Troubu předehřejeme na 150°C.",
+        "Ve větším hrnci (kam se nám vejde maso a může do trouby!) si rozehřejeme trochu oleje.",
+        "Nakrájíme cibuli na větší kousky, osmahneme na oleji (cca 2-3 minuty).",
+        "Do hrnce vložíme marinované vepřové a zatáhneme ze všech stran (cca 2-5 minut z každé strany).",
+        "Podlijeme maso pivem/ciderem a přikryté dáme do předehřáté trouby na 2-3 hodiny, v závislosti na velikosti masa.",
+        "Zhruba po hodině a půl zkontrolujeme teploměrem na maso a případně prodloužíme / zkrátíme dobu pečení dle potřeby. Vnitřní teplota masa by měla dosáhnout 91°C.",
+        "Po vytažení z trouby necháme chvíli odstát, jakmile se bude dát s masem pracovat (a je ještě teplé), můžeme ho nakrájet na menší kousky, které se nám budou v míse lépe trhat vidličkami.",
+        "Po natrhání můžeme přidat např. BBQ omáčku, kečup."
+      ]
+    }
+  ],
+  "notes": [
+    "Větší kusy krkovice můžeme rozkrojit na menší, aby se s nimi lépe manipulovalo při úvodním zatáhnutí, navíc se uvaří rychleji."
+  ]
 }

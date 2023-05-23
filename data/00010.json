@@ -1,14 +1,25 @@
-{  "name"        : "Kávové želé"
- , "ingredients" : [  {  "name" : "Ingredience"
-                       , "data" : [  "káva"
-                                   , "0,5 l voda"
-                                   , "5 pol. lžic cukr"
-                                   , "1 ks želatina (s agar)"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy"
-                       , "data" : [  "Připravíme 0,5 l kávy jako normálně (rozpustná, french press)."
-                                   , "Připravenou kávu osladíme k chuti, cca 5 - 6 polívkových lžic (pokud máme raději sladší kávu, můžeme více) a vlijeme horkou do hrnce."
-                                   , "Přisypeme želatinu a přivedeme k varu. Povaříme dvě minuty a odstavíme. Po zchladnutí (dokud je ještě tekuté) nalijeme do připravených kontejnerů. Necháme zchladit v lednici, pak nakrájíme na kostky a podáváme např. s vanilkovou zmrzlinou."]}
-                   ]
- , "notes"       : []
+{
+  "name": "Kávové želé",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "káva",
+        "0,5 l voda",
+        "5 pol. lžic cukr",
+        "1 ks želatina (s agar)"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Připravíme 0,5 l kávy jako normálně (rozpustná, french press).",
+        "Připravenou kávu osladíme k chuti, cca 5 - 6 polívkových lžic (pokud máme raději sladší kávu, můžeme více) a vlijeme horkou do hrnce.",
+        "Přisypeme želatinu a přivedeme k varu. Povaříme dvě minuty a odstavíme. Po zchladnutí (dokud je ještě tekuté) nalijeme do připravených kontejnerů. Necháme zchladit v lednici, pak nakrájíme na kostky a podáváme např. s vanilkovou zmrzlinou."
+      ]
+    }
+  ],
+  "notes": []
 }

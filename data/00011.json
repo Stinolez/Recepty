@@ -1,25 +1,29 @@
-{  "name"        : "Červené zelí s jablky"
- , "ingredients" : [  {  "name" : "Ingredience"
-                       , "data" : [  "1 ks červené zelí"
-                                   , "2 ks bobkový list"
-                                   , "2 ks badyán"
-                                   , "0.5 čaj. lžička skořice"
-                                   , "200 ml zeleninový vývar / voda"
-                                   , "50 g cukr"
-                                   , "75 ml jablečný ocet"
-                                   , "2 ks jablka"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy"
-                       , "data" : [  "Červené zelí nastrouháme na drobné kousky, přidáme bobkový list, badyán, cukr a jablečný ocet a podlijeme vývarem nebo vodou."
-                                   , "Na sporáku dáme na střední stupeň, přivedeme k varu, ztlumíme a necháme probublávat 30 minut."
-                                   , "Z oloupaných jablek odstraníme jadřinec a nakrájíme na kousky. Přidáme k zelí a povaříme dalších 15 minut."]}
-                   ]
- , "notes"       : []
+{
+  "name": "Červené zelí s jablky",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "1 ks červené zelí",
+        "2 ks bobkový list",
+        "2 ks badyán",
+        "0.5 čaj. lžička skořice",
+        "200 ml zeleninový vývar / voda",
+        "50 g cukr",
+        "75 ml jablečný ocet",
+        "2 ks jablka"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Červené zelí nastrouháme na drobné kousky, přidáme bobkový list, badyán, cukr a jablečný ocet a podlijeme vývarem nebo vodou.",
+        "Na sporáku dáme na střední stupeň, přivedeme k varu, ztlumíme a necháme probublávat 30 minut.",
+        "Z oloupaných jablek odstraníme jadřinec a nakrájíme na kousky. Přidáme k zelí a povaříme dalších 15 minut."
+      ]
+    }
+  ],
+  "notes": []
 }
-
-
-
-
-
-
-

@@ -1,22 +1,33 @@
-{  "name"        : "Kynuté buchty s marmeládou"
- , "ingredients" : [  {  "name" : "Ingredience"
-                       , "data" : [  "200 g hladké mouky"
-                                   , "200 g polohrubé mouky"
-                                   , "250 ml mléka"
-                                   , "25 g droždí"
-                                   , "1 čaj. lžička cukru"
-                                   , "1 vejce"
-                                   , "50 g rozpuštěného másla"
-                                   , "špetka soli"
-                                   , "olej"
-                                   , "rybízová marmeláda"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy"
-                       , "data" : [  "Ve vlažném a oslazeném mléce necháme vzejít kvasnice. Vykynutý kvásek v míse smícháme s moukou, solí, rozpuštěným máslem a vejcem. Vypracujeme těsto, které se nelepí na stěny mísy, a necháme je na teplém místě vykynout."
-                                   , "Asi po 20 minutách těsto promícháme a necháme znovu kynout."
-                                   , "Na pomoučeném vále pak těsto rozdělíme na 12-15 kousků (podle toho, jakou má každý rád velikost buchet), které roztáhneme a doprostřed položíme kopeček marmelády. Opatrně uzavřeme a klademe na vymazaný plech, každou buchtu potřeme olejem, především po stranách, a necháme ještě nejméně 10 minut odpočinout."
-                                   , "Poté plech vložíme do vyhřáté trouby a pečeme při 220 °C přibližně 20 minut."
-                                   , "Upečené buchy na talíři pocukrujeme."]}
-                   ]
- , "notes"       : []
+{
+  "name": "Kynuté buchty s marmeládou",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "200 g hladké mouky",
+        "200 g polohrubé mouky",
+        "250 ml mléka",
+        "25 g droždí",
+        "1 čaj. lžička cukru",
+        "1 vejce",
+        "50 g rozpuštěného másla",
+        "špetka soli",
+        "olej",
+        "rybízová marmeláda"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Ve vlažném a oslazeném mléce necháme vzejít kvasnice. Vykynutý kvásek v míse smícháme s moukou, solí, rozpuštěným máslem a vejcem. Vypracujeme těsto, které se nelepí na stěny mísy, a necháme je na teplém místě vykynout.",
+        "Asi po 20 minutách těsto promícháme a necháme znovu kynout.",
+        "Na pomoučeném vále pak těsto rozdělíme na 12-15 kousků (podle toho, jakou má každý rád velikost buchet), které roztáhneme a doprostřed položíme kopeček marmelády. Opatrně uzavřeme a klademe na vymazaný plech, každou buchtu potřeme olejem, především po stranách, a necháme ještě nejméně 10 minut odpočinout.",
+        "Poté plech vložíme do vyhřáté trouby a pečeme při 220 °C přibližně 20 minut.",
+        "Upečené buchy na talíři pocukrujeme."
+      ]
+    }
+  ],
+  "notes": []
 }

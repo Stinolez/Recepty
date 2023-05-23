@@ -1,23 +1,42 @@
-{  "name"        : "Jablečný coleslaw"
- , "ingredients" : [  {  "name" : "Ingredience (dresing)"
-                       , "data" : [  "1/4 hrníčku jablečný ocet"
-                                   , "1 hrníček majonéza"
-                                   , "1/3 hrníčku maková semena (dobrovolné)"
-                                   , "1/3 hrníčku med"
-                                   , "2 čaj. lžičky sůl"
-                                   , "1 čaj. lžičky pepř"]}
-                    , {  "name" : "Ingredience (salát)"
-                       , "data" : [  "1 ks zelí"
-                                   , "2 ks mrkev"
-                                   , "1 svazek jarní cibulka"
-                                   , "4 ks Fuji jablka"]}
-                   ]
- , "steps"       : [  {  "name" : "Postup přípravy (dresing)"
-                       , "data" : [  "Všechny přísady na dresing smícháme v míse a necháme stranou."]}
-                    , {  "name" : "Postup přípravy (salát)"
-                       , "data" : [  "Odstraníme střed zelí a nasekáme na jemné kousky, mrkev a jablka nakrájíme na drobné proužky, jarní cibulku nasekáme na drobno."
-                                   , "Všechny ingredience na salát smícháme ve velké míse, zalijeme dresingem a dobře promícháme."
-                                   , "Salát necháme min. hodinu vychladit, před podáváním ještě promícháme."]}
-                   ]
- , "notes"       : []
+{
+  "name": "Jablečný coleslaw",
+  "ingredients": [
+    {
+      "name": "Ingredience (dresing)",
+      "data": [
+        "1/4 hrníčku jablečný ocet",
+        "1 hrníček majonéza",
+        "1/3 hrníčku maková semena (dobrovolné)",
+        "1/3 hrníčku med",
+        "2 čaj. lžičky sůl",
+        "1 čaj. lžičky pepř"
+      ]
+    },
+    {
+      "name": "Ingredience (salát)",
+      "data": [
+        "1 ks zelí",
+        "2 ks mrkev",
+        "1 svazek jarní cibulka",
+        "4 ks Fuji jablka"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy (dresing)",
+      "data": [
+        "Všechny přísady na dresing smícháme v míse a necháme stranou."
+      ]
+    },
+    {
+      "name": "Postup přípravy (salát)",
+      "data": [
+        "Odstraníme střed zelí a nasekáme na jemné kousky, mrkev a jablka nakrájíme na drobné proužky, jarní cibulku nasekáme na drobno.",
+        "Všechny ingredience na salát smícháme ve velké míse, zalijeme dresingem a dobře promícháme.",
+        "Salát necháme min. hodinu vychladit, před podáváním ještě promícháme."
+      ]
+    }
+  ],
+  "notes": []
 }
