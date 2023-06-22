@@ -1,0 +1,35 @@
+{
+  "name": "Kuřecí prsa pečená v kokosovém mléce",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "4 kuřecí prsa",
+        "1 plechovka kokosového mléka",
+        "2 stroužky česneku",
+        "1 skořice",
+        "1 lžička mletého zázvoru",
+        "1 lžička celého římského kmínu",
+        "1 lžička celého kardamomu",
+        "1 lžička mleté kurkumy",
+        "1 lžíce másla",
+        "1 lžička soli",
+        "4 špetky pepře",
+        "400 g rýže"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Troubu předehřejte na 190 °C. Omytá a osušená kuřecí prsa (nejlépe i s kůží) osolte a opepřete.",
+        "Opečte prsa zprudka z obou stran na lžíci másla, aby kůže zezlátla.",
+        "Maso dejte do hrnce / pekáčku, přidejte římský kmín, zázvor, kurkumu a kardamom a vše zalijte kokosovým mlékem (plechovku ještě před otevřením důkladně protřepejte).",
+        "Do kokosového mléka vložte tyčinku skořice a oloupané celé stroužky česneku a trochu osolte. Pečte odkryté dozlatova asi 30 minut, občas přelijte výpekem.",
+        "Hotové maso s omáčkou podávejte s rýží."
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -302,6 +302,17 @@
         "japonsko",
         "kopr"
       ]
+    },
+    {
+      "name": "Kuřecí prsa pečená v kokosovém mléce",
+      "uid": "00031",
+      "image": true,
+      "tags": [
+        "hlavní jídlo",
+        "kuře",
+        "maso",
+        "rýže"
+      ]
     }
   ]
 }
