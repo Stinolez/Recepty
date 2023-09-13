@@ -313,6 +313,17 @@
         "maso",
         "rýže"
       ]
+    },
+    {
+      "name": "Žemlovka",
+      "uid": "00032",
+      "image": true,
+      "tags": [
+        "dezert",
+        "hlavní jídlo",
+        "jablko",
+        "vejce"
+      ]
     }
   ]
 }

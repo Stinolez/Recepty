@@ -1,0 +1,30 @@
+{
+  "name": "Žemlovka",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "vánočka",
+        "mléko",
+        "1 - 2ks vejce",
+        "jablka",
+        "rozinky",
+        "vanilkový / skořicový cukr"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Vánočku i jablka nakrájíme na plátky.",
+        "V mléce rozkvedláme žloutky. ",
+        "Ve vymazaném vyšším plechu vrstvíme: vánočku (namočenou v mléce se žloutky), jablka s rozinkami, posypeme vanilkovým / skořicovým cukrem, znovu vánočku, znovu jablka s rozinkami, opět posypeme cukrem a jako poslední vrstvu opět vánočku.",
+        "Ze zbylých bílků vytvoříme sníh, kterým potřeme poslední vrstvu vánočky, dáme zapéct do trouby, cca 30-40min na 170-180°C."
+      ]
+    }
+  ],
+  "notes": [
+    "Vánočku můžeme nahradit sladkým loupákem nebo i houskou / rohlíkem."
+  ]
+}
