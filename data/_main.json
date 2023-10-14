@@ -324,6 +324,16 @@
         "jablko",
         "vejce"
       ]
+    },
+    {
+      "name": "Špagety Carbonara",
+      "uid": "00033",
+      "image": true,
+      "tags": [
+        "hlavní jídlo",
+        "itálie",
+        "těstoviny"
+      ]
     }
   ]
 }

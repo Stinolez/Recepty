@@ -1,0 +1,30 @@
+{
+  "name": "Špagety Carbonara",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "250g slaniny",
+        "4ks vejce",
+        "100g grand padano (pecorino, parmesan)",
+        "špagety",
+        "pepř",
+        "sůl"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Slaninu nakrájíme na kolečka a zatím odložíme stranou.",
+        "Do misky rozklepneme 3 celá vajíčka a jeden extra žloutek, nastrouháme sýr a zamícháme s vajíčky, okořeníme čerstvě namletým pepřem.",
+        "Do velké studené pánve dáme slaninu a osmahneme ji, jakmile je slanina hotová, necháme ji v pánvi a vypneme plotýnku.",
+        "Mezitím v horké slané vodě uděláme špagety (čas dle návodu na obalu).",
+        "Jakmile budou špagety hotové, přendáme je do pánve se slaninou, prohodíme, aby se pokryly špagety vypečeným tukem ze slaniny, přidáme kaši z vejce a sýru. Je potřeba pracovat rychle, protože jediné teplo, které v tento moment uvaří vejce jsou horké špagety a zbytkové teplo v pánvi se slaninou.",
+        "Poté, co se kaše rozpustí a udělá krémovou omáčku, ochutnáme a případně dosolíme a dopepříme. Ihned podáváme."
+      ]
+    }
+  ],
+  "notes": []
+}
