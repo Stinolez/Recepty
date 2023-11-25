@@ -334,6 +334,17 @@
         "itálie",
         "těstoviny"
       ]
+    },
+    {
+      "name": "Podzimní mrkvový dort",
+      "uid": "00034",
+      "image": true,
+      "tags": [
+        "mrkev",
+        "vejce",
+        "mascarpone",
+        "dezert"
+      ]
     }
   ]
 }

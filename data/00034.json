@@ -1,0 +1,42 @@
+{
+  "name": "Podzimní mrkvový dort",
+  "ingredients": [
+    {
+      "name": "Korpus",
+      "data": [
+        "3-4 větší mrkve",
+        "1 a 1/4 hrnku hladké mouky",
+        "1 hrnek cukru krystal",
+        "1/2 hrnku oleje",
+        "4 vejce",
+        "1ks vanilkový cukr",
+        "1 a 1/2 lžičky jedlé sody / prášku do pečiva",
+        "2 lžičky skořice",
+        "1/2 lžičky soli",
+        "špetka muškátového oříšku",
+        "hrst nasekaných vlašských ořechů a rozinek (volitelné)"
+      ]
+    },
+    {
+      "name": "Krém",
+      "data": [
+        "500g mascarpone",
+        "120g změklého másla",
+        "2-3 lžíce javorového sirupu / medu",
+        "200g zakysané smetany"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Troubu předehřejeme na 180 °C.",
+        "Mrkve si očistíme a nastrouháme je nahrubo. V míse si smícháme cukry s olejem a vejci. Šleháme, dokud se cukry nerozpustí. Přidáme prosetou mouku, prášek do pečiva / jedlou sodu, skořici, sůl a muškátový květ. Pořádně promícháme a do vzniklého těsta přidáme nastrouhanou mrkev spolu s nasekanými ořechy a rozinkami.",
+        "Hotové těsto vlijeme do vymazané a vysypané formy o průměru 26 cm a pečeme zhruba 35 minut. Podle špejle poznáme, zda už je hotové. Upečený dort necháme chvíli chladnout, poté ho rozřízneme vejpůl a necháme úplně vychladnout.",
+        "Na krém jednoduše smícháme všechny ingredience. Dáváme pozor, aby v krému nebyly žádné hrudky, musí být hladký. Aby nám trochu ztuhl a lépe se nanášel, dáme ho aspoň na 10 minut do lednice. Poté jednoduše rozetřeme polovinu krému mezi dva korpusy, zbylou polovinou potřeme dort z vrchu i ze stran. Dort dáme do lednici aspoň na dvě hodiny, nejlépe však přes noc."
+      ]
+    }
+  ],
+  "notes": []
+}
