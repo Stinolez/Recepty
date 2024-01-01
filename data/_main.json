@@ -345,6 +345,15 @@
         "mascarpone",
         "dezert"
       ]
+    },
+    {
+      "name": "Banánové rolky",
+      "uid": "00035",
+      "image": true,
+      "tags": [
+        "banán",
+        "dezert"
+      ]
     }
   ]
 }

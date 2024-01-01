@@ -1,0 +1,29 @@
+{
+  "name": "Banánové rolky",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "2 zralé banány",
+        "270g hladké mouky",
+        "1 lžička prášku do pečiva",
+        "30g rozpuštěného másla",
+        "2 lžičky cukru",
+        "1 lžička perníkového koření"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Banány vidličkou rozmačkáme na kaši a přisypeme mouku promíchanou s práškem do pečiva.",
+        "Prohněteme a vytvoříme nelepivé těsto, se kterým se bude dobře pracovat.",
+        "Na pomoučněný vál položíme těsto a rozválíme na tenkou placku.",
+        "Plát potřeme rozpuštěným máslem, posypeme cukrem, který smícháme s perníkovým kořením a rozkrájíme na proužky, které poté zamotáme do roličky.",
+        "Rolky vyskládáme na plech nebo do pekáčku a pečeme ve vyhřáté troubě na 180 °C cca 25 minut."
+      ]
+    }
+  ],
+  "notes": []
+}
