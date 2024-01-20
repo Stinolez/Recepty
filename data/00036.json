@@ -1,0 +1,45 @@
+{
+  "name": "Chilli con carne",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "1 pol. lžíce oleje",
+        "1 ks cibule (velká)",
+        "1 ks červené papriky",
+        "2 stroužky česneku",
+        "1 pol. lžíce sušené chilli",
+        "1 pol. lžíce sladké papriky (mletá)",
+        "1 pol. lžíce římského kmínu (mletý)",
+        "500 g hovězí mleté maso",
+        "300 ml hovězí vývar",
+        "400 g krájených rajčat (konzerva)",
+        "1/2 pol. lžíce majoránky",
+        "2 čaj. lžičky rajského protlaku",
+        "400 g červených fazolí (sterilované)",
+        "2 pol. lžíce cukru",
+        "1/2 čaj. lžičky skořice",
+        "sůl",
+        "pepř"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Připravte si zeleninu. Nakrájejte cibuli na kostičky. Papriku rozpulte, zbavte jádřince, opláchněte a nasekejte přibližně na centimetrové kostky. Nakonec oloupejte a nakrájejte česnek.",
+        "Postavte pánev na střední plamen. Nalijte do ní olej a nechte ho minutku nebo dvě rozpálit. Do rozžhaveného oleje vhoďte cibuli a za pravidelného míchání ji asi pět minut smažte. Měla by změknout a zesklovatět. Pak přisyp­te česnek, kostičky papriky, chilli, sladkou papriku, skořici a kmín. Za stálého míchání smažte ještě pět minut, dokud se všechny vůně pěkně nepromísí.",
+        "Teď osmahněte maso. Trochu ztlumte plamen, přidejte do pánve mleté maso a vařečkou se ho snažte rozdělit na co nejmenší kousky. Asi pět minut rychle míchejte tak, aby se maso rozdělilo do hrudek a bylo stejnoměrně opečené. Udržujte střední plamen – maso by mělo být dokřupava usmažené, nikoli dušené. Pokud byste ho ale smažili příliš zprudka, hrozí, že česnek zhořkne a přichytí se ke koření.",
+        "Vývar přilijte do pánve. Totéž proveďte s konzervovanými rajčaty. Potom přisypte majoránku, cukr, sůl a pepř. Na závěr přidejte rajčatový protlak a všechno ještě jednou důkladně promíchejte.",
+        "Poduste maso s omáčkou. Přiveďte směs k varu, zamíchejte a přiklopte pokličkou. Co nejvíc stáhněte plamen a nechte všechno dvacet minut probublávat. Občas zamíchejte a zkontrolujte, jestli se omáčka nepřichytává nebo zda se příliš neodpařila. Pokud ano, přidejte dvě lžíce vody. Správně podušené chilli con carne by mělo být husté a šťavnaté.",
+        "Nakonec přidejte fazole. S pomocí cedníku je slijte a přidejte do pánve. Znovu pokrm přiveďte k varu a ještě deset minut ho povařte. Jestli se vám zdá omáčka příliš hustá, přilijte trochu vody. Ochutnejte a podle potřeby dokořeňte; je pravděpodobné, že jídlo bude potřebovat víc soli a pepře, než jste čekali. Potom už jenom odklopte pokličku a nechte chilli con carne aspoň deset minut odstát."
+      ]
+    }
+  ],
+  "notes": [
+    "Pokud neholdujete pálivému jídlu, můžete množství chilli upravit na 1 čajovou lžičku, popř. se dá vynechat úplně.",
+    "Místo cukru lze přidat jeden, nebo dva čtverečky hořké čokolády - chilli a čokoláda jdou dobře spolu.",
+    "Nejlépe podávejte s rýží."
+  ]
+}

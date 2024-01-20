@@ -40,7 +40,7 @@ body {
   margin: 0;
 }
 
-img {
+img, picture, svg, video {
   display: block;
   max-width: 100%;
 }
@@ -176,7 +176,7 @@ main {
 
 /* Recipe details */
 .ingredients h2, .steps h2, .notes h2 {
-  margin-inline: var(--base-margin);
+  margin: var(--base-margin);
 }
 
 .ingredients ul, .steps ol {

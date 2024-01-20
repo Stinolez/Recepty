@@ -354,6 +354,18 @@
         "banán",
         "dezert"
       ]
+    },
+    {
+      "name": "Chilli con carne",
+      "uid": "00036",
+      "image": true,
+      "tags": [
+        "mexiko",
+        "fazole",
+        "hlavní jídlo",
+        "mleté maso",
+        "chilli"
+      ]
     }
   ]
 }
