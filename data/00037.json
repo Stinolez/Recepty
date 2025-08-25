@@ -1,0 +1,40 @@
+{
+  "name": "Kapustnice",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "olej nebo sádlo",
+        "cibule",
+        "vepřová plec",
+        "uzená krkovička",
+        "klobása (nejlépe papriková, uzená i neuzená)",
+        "špekáčky (nebo točený salám, kabanos a pod)",
+        "kysané zelí",
+        "sušené houby",
+        "bobkový list",
+        "sladká mletá paprika",
+        "pepř",
+        "sůl"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Sušené houby dát do misky a přelít horkou vodou. Nechat stát, až houby změknou. Pak houby případně nakrájet na přiměřené kousky.",
+        "Cibuli nakrájet na drobno, plec, krkovičku a klobásy nakrájet na kostičky, z kysaného zelí scedit šťávu.",
+        "Nakrájenou cibuli osmahnout na oleji, přidat nakrájenou vepřovou plec a opékat nejprve zprudka (míchat!!!) a až pustí šťávu stáhnout oheň a nechat pod pokličkou dusit.",
+        "Až se šťáva vydusí, přidat mletou papriku, nechat trošku osmahnout (pozor, ať se paprika nespálí, jde to dost rychle), pepř, nakrájené houby (i s vodou, ve které byly namočeny), podlít vodou a dál dusit.",
+        "Když je maso poloměkké, přidat nakrájené uzené maso a kysané zelí, dolít vodu a vařit.",
+        "Až je zelí a uzené maso skoro měkké, přidat klobásu a špekáčky, bobkový list a vařit doměkka.",
+        "Nakonec dochutit odloženou šťávou z kysaného zelí a případně dosolit (kysané zelí bývá dost slané, proto před solením nejprve ochutnej).",
+        "Kapustnica je hotová, když je měkké vepřové maso a kysané zelí. Zbylou šťávu ze zelí nevylévej, ale odlož do lednice, později můžeš kapustnici podle potřeby ještě dochutit."
+      ]
+    }
+  ],
+  "notes": [
+    "Kapustnici vařím vždy 2 dny před Štědrým dnem, aby se uležela."
+  ]
+}

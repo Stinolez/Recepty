@@ -366,6 +366,46 @@
         "mleté maso",
         "chilli"
       ]
+    },
+    {
+      "name": "Kapustnice",
+      "uid": "00037",
+      "image": true,
+      "tags": [
+        "polévka",
+        "maso",
+        "kysené zelí"
+      ]
+    },
+    {
+      "name": "Bramborový salát",
+      "uid": "00038",
+      "image": true,
+      "tags": [
+        "příloha",
+        "salát",
+        "brambory"
+      ]
+    },
+    {
+      "name": "Malinové koláčky",
+      "uid": "00039",
+      "image": true,
+      "tags": [
+        "maliny",
+        "dezert"
+      ]
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "uid": "00040",
+      "image": true,
+      "tags": [
+        "hlavní jídlo",
+        "kuře",
+        "indie",
+        "rýže"
+      ]
     }
   ]
 }

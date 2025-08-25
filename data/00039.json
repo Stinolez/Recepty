@@ -1,0 +1,32 @@
+{
+  "name": "Malinové koláčky",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "300g hladká mouka",
+        "200g máslo (pokojové teploty)",
+        "100g moučkový cukr",
+        "60g mleté ořechy (vlašské, lískové nebo mandle)",
+        "citronová kůra (z 1/2 citronu) ",
+        "citronová šťáva (z 1/2 citronu) ",
+        "mražené maliny (čerstvé do těsta nezabalíte) ",
+        "moučkový cukr (na obalení)",
+        "vanilkový extrakt"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Ve velké míse smíchejte mouku, cukr, ořechy a citronovou kuru se šťávou. Pak přidejte změklé máslo, vanilkový extrakt a vše zpracujte do vláčného těsta. Těsto zabalte do fólie a dejte přes noc do lednice.",
+        "Těsto vyndejte z lednice, aby se s ním lépe pracovalo a troubu předehřejte na 180 °C.",
+        "Změklé těsto vyválejte na pomoučněném vále asi na 3–4 mm a vykrajujte z něj kolečka o průměru 5 cm. Na každé kolečko položte mraženou malinu a pečlivě ji zabalte (malina nesmí nikde vykukovat).",
+        "Kuličky naskládejte na plech pokrytý pečicím papírem a pečte v předehřáté troubě na 20 minut.",
+        "Ještě horké koláčky obalte v moučkovém cukru. Koláčky díky cukru natáhnou vlhkost a krásně zkřehnou."
+      ]
+    }
+  ],
+  "notes": []
+}

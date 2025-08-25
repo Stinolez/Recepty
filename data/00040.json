@@ -1,0 +1,75 @@
+{
+  "name": "Chicken Tikka Masala",
+  "ingredients": [
+    {
+      "name": "Marináda",
+      "data": [
+        "600g kuřecí (stehení, popř. prsní)",
+        "1/2 bílého jogurtu",
+        "3 stroužky česneku",
+        "2-3cm nastrouhaného zázvoru",
+        "1 čaj. lžička garam masala",
+        "1 čaj. lžička mletého římského kmínu",
+        "1 čaj. lžička mletého koriandru",
+        "1 čaj. lžička mleté papriky",
+        "1 čaj. lžička soli",
+        "1 pol. lžíce oleje",
+        "pepř",
+        "2 čaj. lžičky citronové šťávy"
+      ]
+    },
+    {
+      "name": "Směs koření",
+      "data": [
+        "2 čaj. lžičky kurkumy",
+        "1 pol. lžička garam masaly",
+        "2 čaj. lžičky mletého koriandru",
+        "1 čaj. lžička mletého římského kmínu",
+        "1/8 čaj. lžičky mletého kardamonu"
+      ]
+    },
+    {
+      "name": "Omáčka",
+      "data": [
+        "olej",
+        "80g másla / ghí",
+        "1ks cibule",
+        "400ml passaty",
+        "400ml vody",
+        "2-3cm nastrouhaného zázvoru",
+        "3 stroužky česneku",
+        "100ml smetany",
+        "1 pol. lžíce papriky",
+        "1 čaj. lžička cukru",
+        "sůl",
+        "pepř"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Marináda a příprava kuřete",
+      "data": [
+        "Smíchejte všechny přísady pro marinádu, kromě kuřete, dobře promíchejte.",
+        "Přidejte na střední kostky nakrájené kuřecí, dobře promíchejte aby bylo rovnoměrně pokryté marinádou, dejte do lednice přikryté marinovat (min. 3 hodiny, ideálně přes noc).",
+        "Rozehřejte lžičku oleje na pánvi a přidejte polovinu kuřete, osmahněte zprudka cca 2 minuty, otočte a osmahněte z druhé strany. Vyndejte, odložte stranou a opakujte s druhou půlkou kuřete (nevadí, že kuře není plně uvařené, bude se ještě vařit v omáčce)."
+      ]
+    },
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Na vyšším plameni rozehřejte olej a máslo (30g), přidejte cibuli, zázvor a sůl. Za stálého míchání osmahněte cca 5-7 min.",
+        "Snižte plamen na střední, přidejte prolisovaný česnek a papriku, vařte 2 minuty.",
+        "Přidejte směs koření (viz ingredience) a za stálého míchání vařte další 2 minuty.",
+        "Přidejte passatu a vodu, promíchejte. Přiveďte k lehkému varu, přiklopte, ztlumte plamen a nechte bublat 15 minut, občas zamíchejte.",
+        "Přelijte omáčku do mixéru (popř. použijte ponorný) a rozmixujte.",
+        "Vraťte omáčku do pánve/hrnce, přidejte smetanu, cukr a zbývající (50g) máslo. Zamíchejte, nechte rozpustit máslo.",
+        "Přidejte opečené kuře, nechte provařit, dokud nebude kuře hotové.",
+        "Servírujte s rýží / naan plackou, můžeme posypat čerstvými listy koriandru."
+      ]
+    }
+  ],
+  "notes": [
+    "Servírovat s rýží, popř. s naan plackou."
+  ]
+}

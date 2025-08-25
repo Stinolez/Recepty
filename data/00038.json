@@ -1,0 +1,38 @@
+{
+  "name": "Bramborový salát",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "brambory (salátové)",
+        "cibule (ideálně červená, ale jinak jakákoliv)",
+        "kyselé okurky + n1álev",
+        "mrkev",
+        "hrášek (mražený nebo z konzervy)",
+        "vajíčko (podle množství salátu)",
+        "majonéza",
+        "tatarka (nebo jenom majonéza)",
+        "hořčice",
+        "pepř",
+        "sůl"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Brambory uvařit ve slupce, oloupat, nakrájet do mísy/hrnce na drobné kostičky.",
+        "Cibuli nakrájet na drobno, přidat k bramborám.",
+        "Kyselé okurky nakrájet na drobné kostičky přidat do mísy. Přilít i trochu (přiměřeně) nálevu z okurek.",
+        "Mrkev uvařit ve slané vodě a měkkou nakrájet na drobné kostičky. Přidat do mísy.",
+        "Hrášek z konzervy rovnou do mísy (bez nálevu). Mražený nejdřív uvařit ve slané vodě.",
+        "Osolit, vše promíchat, pokud je moc suché, přilít ještě nálev z kyselých okurek (to salát zvlhčí a ochutí).",
+        "Vajíčko/a nakrájet na drobno a šup do mísy.",
+        "Přidat majonézu+tatarku, nebo jen majonézu, dále hořčici a důkladně promíchat ode dna.",
+        "Ochutnat a případně dosolit a dopepřit."
+      ]
+    }
+  ],
+  "notes": []
+}
