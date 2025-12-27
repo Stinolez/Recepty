@@ -1,0 +1,41 @@
+{
+  "name": "Butter chicken",
+  "ingredients": [
+    {
+      "name": "Ingredience",
+      "data": [
+        "500g kuřecího masa;",
+        "1ks cibule",
+        "2 stroužky česnku",
+        "1 pol. lžíce nastrouhaného zázvoru",
+        "400g krájených rajčat / passaty",
+        "1 lžička římského kmínu (mletý)",
+        "2 lžičky kurkumy",
+        "1 lžička garam masaly",
+        "1 lžička kardamonu (mletý)",
+        "špetka skořice",
+        "5 lžic másla",
+        "150ml smetany ke šlehání",
+        "čerstvý koriandr (ozdobení)",
+        "kajenského pepře (volitelné)",
+        "sůl",
+        "pepř"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Postup přípravy",
+      "data": [
+        "Nejprve nakrájené kuřecí maso osolte, opepřete a okořeňte lžičkou kurkumy a kajenským pepřem (v množství, jak moc máte rádi pálivé). Maso nechte asi 15 minut odpočívat.",
+        "Potom kousky masa na lžíci másla zprudka ze všech stran orestujte. Maso vyndejte z pánve a dejte stranou.",
+        "Do stejné pánve nyní dejte 2 lžíce másla a na něm orestujte nasekaný česnek, cibuli a čerstvý zázvor.",
+        "Po chvilce přidejte koření – římský kmín, garam masalu, kardamom, skořici, kajenský pepř a druhou lžičku kurkumy. Krátce zarestujte, aby se koření nezačalo připalovat. Do pánve následně vylijte jemně krájená rajčata / passatu a společně vše provařte.",
+        "Nakonec přilijte asi 150 ml smetany ke šlehání a orestované maso a vše vařte dalších 15 minut.",
+        "Po této době vypněte sporák a do horkého jídla zamíchejte další dvě lžíce másla. Jídlo se tím krásně zjemní a ještě trochu zahustí.",
+        "Butter chicken podávejte s bílou rýží posypané čerstvým koriandrem."
+      ]
+    }
+  ],
+  "notes": []
+}

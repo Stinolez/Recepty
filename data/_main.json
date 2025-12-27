@@ -406,6 +406,18 @@
         "indie",
         "rýže"
       ]
+    },
+    {
+      "name": "Butter chicken",
+      "uid": "00041",
+      "image": true,
+      "tags": [
+        "hlavní jídlo",
+        "kuře",
+        "indie",
+        "rýže",
+        "máslo"
+      ]
     }
   ]
 }
